@@ -1,6 +1,1 @@
-# eecs731projects
-Homework Projects for EECS 731 (Intro to Data Science)
-
-This repository contains homework projects for various topics in Data Science, including:
-
-Data Acquisition and Exploration, Data Modeling, Classification, Clustering, Regression, Time Series and Forcasting, Anomaly Detection, Model Management and Deployment, Visualization and Story Telling, Large Scale Data Management and Processing, Neural Networks, Open Problems
+The data was gathered from the public github repository of FiveThirtyEight, under the folder titled "college-majors".  This folder contains exploratory data gathered from the American Community Survey 2010-2012 Public Use Microdata Series.  This data looks at the number of students taking specific majors, including engineering, business, nursing, biology, forsensics and others.  The main dataset "all-ages" takes a look at all students and their respective majors, whereas the two datasets "recent-grads" and "grad-students" look at all students under the age of 28 and all students over the age of 25, respectively.  This data set was used originally to help determine which majors it would make sense for a prospective college student to choose.  However, I will be using these data sets to see if trends in major selections among male and female college students have changed over the years.
