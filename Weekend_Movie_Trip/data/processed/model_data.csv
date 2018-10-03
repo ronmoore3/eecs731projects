@@ -1,0 +1,1636 @@
+,userId,movieId,tag,userMovie,rating,timestamp,tag_code
+0,2,60756,"funny, Highly quotable, will ferrell","(2, 60756)",5.0,1445714980,1
+1,2,89774,"Boxing story, MMA, Tom Hardy","(2, 89774)",5.0,1445715189,10
+2,2,106782,"drugs, Leonardo DiCaprio, Martin Scorsese","(2, 106782)",5.0,1445714966,6
+3,7,48516,way too long,"(7, 48516)",1.0,1169687318,10
+4,18,431,"Al Pacino, gangster, mafia","(18, 431)",4.0,1462138790,6
+5,18,1221,"Al Pacino, Mafia","(18, 1221)",5.0,1460242083,6
+6,18,5995,"holocaust, true story","(18, 5995)",4.5,1455735416,10
+7,18,44665,twist ending,"(18, 44665)",4.5,1455049870,3
+8,18,52604,"Anthony Hopkins, courtroom drama, twist ending","(18, 52604)",4.5,1457650649,3
+9,18,88094,"britpop, indie record label, music","(18, 88094)",3.0,1457352482,10
+10,18,144210,"dumpster diving, Sustainability","(18, 144210)",4.0,1455060282,10
+11,21,119141,bloody,"(21, 119141)",0.5,1419793939,10
+12,49,109487,"black hole, sci-fi, time-travel","(49, 109487)",4.5,1493093231,4
+13,62,2,"fantasy, magic board game, Robin Williams","(62, 2)",4.0,1528843890,7
+14,62,110,"beautiful scenery, epic, historical, inspirational, Medieval, mel gibson, Oscar (Best Cinematography), revenge, sword fight","(62, 110)",4.5,1521822303,10
+15,62,410,"black comedy, Christina Ricci, Christopher Lloyd, dark comedy, family, gothic","(62, 410)",4.5,1525636601,1
+16,62,2023,"Al Pacino, Andy Garcia, Classic, Francis Ford Coppola, mafia","(62, 2023)",5.0,1525636725,6
+17,62,2124,"black comedy, Christina Ricci, Christopher Lloyd, Family, gothic, quirky","(62, 2124)",5.0,1525636840,1
+18,62,2953,"family, funny, Macaulay Culkin, sequel","(62, 2953)",3.5,1525636880,1
+19,62,3114,"animation, Disney, funny, original, Pixar, sequel, Tom Hanks","(62, 3114)",3.0,1525636897,1
+20,62,3578,"ancient Rome, Epic, history, imdb top 250, revenge, Rome, Russell Crowe","(62, 3578)",4.5,1521489618,10
+21,62,4223,"Ed Harris, Jude Law, Rachel Weisz, sniper, World War II","(62, 4223)",4.5,1525125789,10
+22,62,5388,"Al Pacino, atmospheric, Hilary Swank, Robin Williams","(62, 5388)",4.5,1530310806,6
+23,62,6058,"sequel, violent","(62, 6058)",3.5,1525555043,10
+24,62,6534,"dogs, Eric Bana, mad scientist, marvel","(62, 6534)",3.5,1525553932,9
+25,62,6541,"captain nemo, comic book, gothic, Peta Wilson, Sean Connery, superhero","(62, 6541)",3.5,1525553960,9
+26,62,6564,"adventure, Angelina Jolie, heroine in tight suit","(62, 6564)",3.5,1525554328,3
+27,62,7153,"Adventure, ensemble cast, fantasy, fantasy world, great soundtrack, lord of the rings, scenic, stylized, Tolkien","(62, 7153)",5.0,1521488588,3
+28,62,8641,"hilarious, Steve Carell, Will Ferrell","(62, 8641)",4.0,1521490412,1
+29,62,27660,"animation, anime, cyberpunk, dark, Matrix, sci-fi","(62, 27660)",4.5,1525554402,4
+30,62,27706,"dark comedy, Jim Carrey, meryl streep, quirky, stylized","(62, 27706)",4.0,1526248533,1
+31,62,27808,"Adam Sandler, family, sweet","(62, 27808)",4.0,1525554894,7
+32,62,27831,"British gangster, confusing, daniel craig, Exquisite plotting., organized crime, stylish, Tom Hardy","(62, 27831)",4.5,1532723284,10
+33,62,31658,"anime, fantasy world, Hayao Miyazaki, Studio Ghibli","(62, 31658)",3.5,1525869033,7
+34,62,33162,"David Thewlis, Eva Green, Liam Neeson, Orlando Bloom","(62, 33162)",4.0,1525554409,10
+35,62,34150,"Chris Evans, comic book, heroine in tight suit, Jessica Alba, sexy female scientist, superhero","(62, 34150)",3.0,1525553942,9
+36,62,37729,"gothic, helena bonham carter, Johnny Depp, Tim Burton, visually appealing","(62, 37729)",4.0,1530310521,10
+37,62,38061,"black comedy, clever, fast-paced dialogue, good dialogue, Robert Downey Jr., witty","(62, 38061)",4.0,1532723298,1
+38,62,45447,"adventure, Audrey Tautou, conspiracy theory, Mystery, Paris, Tom Hanks, treasure hunt","(62, 45447)",3.5,1525637057,3
+39,62,46723,"Brad Pitt, cate blanchett, multiple storylines, social commentary","(62, 46723)",3.0,1525554190,10
+40,62,46972,"Ben Stiller, Robin Williams","(62, 46972)",4.0,1525554198,1
+41,62,46976,"emma thompson, Maggie Gyllenhaal, modern fantasy, romance, surreal, Will Ferrell","(62, 46976)",4.0,1536874645,1
+42,62,49130,Marion Cotillard,"(62, 49130)",4.0,1526582362,10
+43,62,49530,"Africa, corruption, Jennifer Connelly, justice, Leonardo DiCaprio","(62, 49530)",4.5,1536874696,10
+44,62,53464,"bad acting, bad jokes, bad plot, Chris Evans, Jessica Alba, Marvel, sexy female scientist","(62, 53464)",3.0,1525554739,9
+45,62,58047,"Rachel Weisz, Ryan Reynolds","(62, 58047)",3.5,1528909343,10
+46,62,59501,"fantasy, lion, narnia, Tilda Swinton","(62, 59501)",4.0,1525637504,7
+47,62,60074,"bad script, Charlize Theron, Will Smith","(62, 60074)",3.0,1525553927,10
+48,62,60126,"Anne Hathaway, Steve Carell","(62, 60126)",3.0,1527004227,1
+49,62,60756,"comedy, funny, will ferrell","(62, 60756)",3.5,1528934376,1
+50,62,61024,"comedy, James Franco, Seth Rogen, Stoner Movie","(62, 61024)",4.0,1528934209,1
+51,62,63992,"audience intelligence underestimated, boring, chick flick, overrated, Teen movie","(62, 63992)",1.0,1528934225,8
+52,62,68848,"Adrien Brody, con artists, funny, interesting characters, Mark Ruffalo, Rachel Weisz","(62, 68848)",4.0,1527274282,1
+53,62,71535,"Bill Murray, dark comedy, Emma Stone, funny, Jesse Eisenberg, Woody Harrelson","(62, 71535)",3.5,1529777113,1
+54,62,87430,"audience intelligence underestimated, CGI, cheesy, comic book, DC, DC Comics, Ryan Reynolds, space, superhero","(62, 87430)",3.5,1525555156,4
+55,62,88405,"comedy, funny, happy ending, HOT actress, Justin Timberlake, Mila Kunis, New York City, romance, sex","(62, 88405)",3.5,1525554858,1
+56,62,96861,"Istanbul, Liam Neeson, predictable, Turkey, unnecessary sequel","(62, 96861)",3.5,1529611221,10
+57,62,99114,"action, Christoph Waltz, funny, good soundtrack, Great performances, Humour, Leonardo DiCaprio, Quentin Tarantino, Samuel L. Jackson, Soundtrack, western","(62, 99114)",5.0,1521488759,1
+58,62,103042,"Amy Adams, superhero","(62, 103042)",3.5,1525555304,9
+59,62,104863,"daniel radcliffe, zoe kazan","(62, 104863)",4.0,1528843953,9
+60,62,107348,"comedy, Steve Carell, stupid but funny, will ferrell","(62, 107348)",4.0,1528934997,1
+61,62,108190,"anti-intellectual, bad writing, dystopia, new society, plot holes, predictable, scifi, unintelligent","(62, 108190)",3.0,1525554826,4
+62,62,111743,"Charlize Theron, Liam Neeson, Seth MacFarlane, witty","(62, 111743)",3.5,1530471409,10
+63,62,114180,"action, dystopia, plot holes, post-apocalyptic, survival, thriller, unexplained, weak plot","(62, 114180)",3.5,1525554378,2
+64,62,115149,"dark hero, gun-fu, Keanu Reeves, Revenge, secret society, stylish","(62, 115149)",5.0,1521489984,10
+65,62,116897,"black comedy, dark comedy, dark humor, ironic, multiple short stories, short stories","(62, 116897)",4.0,1528152841,1
+66,62,119141,"bromance, comedy, funny, James Franco, Seth Rogen","(62, 119141)",3.0,1525555123,1
+67,62,122912,"comic book, Dr. Strange, Great villain, Guardians of the Galaxy, Marvel, MCU, Robert Downey Jr., Thanos, Thor, Visually stunning","(62, 122912)",4.0,1526028975,9
+68,62,128360,"characters, Dialogue, humor, Kurt Russell, Quentin Tarantino, Samuel L. Jackson, tension building, violent, Western","(62, 128360)",5.0,1521489877,3
+69,62,135133,"dystopia, Jennifer Lawrence, love story, nonsense, politics, rebellion, revolution","(62, 135133)",3.5,1525637477,10
+70,62,135518,"Ben Kingsley, ethics, immortality, ryan reynolds","(62, 135518)",3.5,1530471334,10
+71,62,135536,"Bad story, Bad writing, Batman, Ben Affleck, comic book, dc comics, good soundtrack, Harley Quinn, Harley Quinn's ass, Horrible directing, Jared Leto, Joker, lack of plot, Margot Robbie, Poor story, poorly paced, superhero, visually appealing, Will Smith","(62, 135536)",4.0,1525555066,9
+72,62,136864,"action, batman, ben affleck, dark, dc comics, Gal Gadot, superhero, superman, wonderwoman","(62, 136864)",4.0,1525555209,3
+73,62,139385,"leonardo DiCarpio, survival, tom hardy, visually appealing","(62, 139385)",4.0,1521489905,10
+74,62,158966,"building a family, creative, freedom, good writing, individualism, Viggo Mortensen","(62, 158966)",4.5,1526076371,7
+75,62,168248,"action, dark hero, gun tactics, hitman, Keanu Reeves, organized crime, secret society","(62, 168248)",4.5,1523048794,3
+76,62,174053,"Dystopia, future, interesting, jon hamm, thought provoking","(62, 174053)",5.0,1525637282,10
+77,62,179401,"Action, Comedy, Dwayne Johnson, funny","(62, 179401)",3.5,1528934530,1
+78,62,183611,"Comedy, funny, Rachel McAdams","(62, 183611)",4.0,1526244681,1
+79,62,184471,"adventure, Alicia Vikander, video game adaptation","(62, 184471)",3.5,1528024895,3
+80,62,187593,"Josh Brolin, Ryan Reynolds, sarcasm","(62, 187593)",4.0,1527274071,10
+81,62,187595,"Emilia Clarke, star wars","(62, 187595)",4.0,1528934550,4
+82,63,260,"classic, space action","(63, 260)",5.0,1443199688,3
+83,76,260,"action, sci-fi","(76, 260)",4.0,1439165601,3
+84,103,260,"EPIC, great soundtrack","(103, 260)",4.0,1431954922,10
+85,103,296,"good dialogue, great soundtrack, non-linear","(103, 296)",5.0,1431954439,10
+86,106,4896,Everything you want is here,"(106, 4896)",5.0,1467360453,10
+87,106,106489,adventure,"(106, 106489)",5.0,1467360741,3
+88,112,260,"classic sci-fi, engrossing adventure, EPIC","(112, 260)",5.0,1442535777,3
+89,119,101142,"animation, funny, stone age","(119, 101142)",4.0,1436042420,1
+90,119,115149,"action, killer, widows/widowers","(119, 115149)",4.5,1436563084,3
+91,119,115617,"animation, kids, robots","(119, 115617)",5.0,1435943203,4
+92,119,120635,"action, murder, police","(119, 120635)",4.5,1437859125,3
+93,125,1726,"Kevin Costner, Post apocalyptic","(125, 1726)",4.5,1474483288,10
+94,125,2387,"dark comedy, dark humor","(125, 2387)",4.5,1474382209,1
+95,125,3052,"irreverent, jay and silent bob, Kevin Smith, satire","(125, 3052)",5.0,1474591641,10
+96,125,5088,irreverent,"(125, 5088)",5.0,1474141620,10
+97,125,7022,"based on a book, bloody, brutal, controversial, dystopia, goretastic, satire, social commentary, survival, violence","(125, 7022)",5.0,1474294895,6
+98,125,7254,"alternate reality, sci-fi, science fiction, time travel","(125, 7254)",5.0,1474289782,4
+99,125,8957,"brutal, clever, Disturbing, great ending, mindfuck, surprise ending, suspense","(125, 8957)",5.0,1474141821,3
+100,125,9010,cruel characters,"(125, 9010)",5.0,1474283090,10
+101,125,42632,brutality,"(125, 42632)",5.0,1474294717,10
+102,125,58301,dark humor,"(125, 58301)",5.0,1474294530,10
+103,125,60950,threesome,"(125, 60950)",5.0,1474591720,10
+104,125,62434,"Seth Rogen, Sexual Humor","(125, 62434)",4.5,1474371925,1
+105,125,67695,Seth Rogen,"(125, 67695)",5.0,1474294341,1
+106,125,100083,"embarassing scenes, offensive, R language, sarcasm, satire","(125, 100083)",5.0,1474141969,10
+107,125,156371,80's,"(125, 156371)",4.0,1474469682,10
+108,125,158872,"Crude humor, mindfuck, sarcasm, satire, Vulgar","(125, 158872)",5.0,1474141733,10
+109,132,3556,sofia coppola,"(132, 3556)",4.0,1157924198,10
+110,132,6323,John Cusack,"(132, 6323)",3.0,1157924990,10
+111,132,6367,"Ewan McGregor, Renee Zellweger","(132, 6367)",3.0,1161799862,10
+112,138,59103,"jackie chan, kung fu","(138, 59103)",4.5,1222676542,10
+113,161,52287,Something for everyone in this one... saw it without and plan on seeing it with kids!,"(161, 52287)",4.0,1176498804,10
+114,166,293,"assassin, Jean Reno","(166, 293)",4.5,1188774465,10
+115,166,54286,"assassin, assassin-in-training (scene), espionage, Robert Ludlum","(166, 54286)",5.0,1188774329,10
+116,167,104,test tag,"(167, 104)",4.0,1154718729,10
+117,177,115617,"feel-good, fun family movie, very funny","(177, 115617)",5.0,1435523609,1
+118,184,2579,"black and white, Christopher Nolan, directorial debut, mindfuck, not linear, Twist Ending","(184, 2579)",4.0,1537094293,3
+119,184,3793,"action, comic book, hugh jackman, marvel, superhero","(184, 3793)",3.5,1537094351,3
+120,184,4226,"dark, Mindfuck, nonlinear, psychology, twist ending","(184, 4226)",5.0,1537094440,3
+121,184,4896,"alan rickman, harry potter, humorous, Magic","(184, 4896)",3.5,1537094519,10
+122,184,5388,"atmospheric, insomnia, thought-provoking","(184, 5388)",3.5,1537094597,10
+123,184,6283,"amazing artwork, anime, sci-fi","(184, 6283)",4.0,1537094484,4
+124,184,27156,"anime, end of the world, epic, mecha, psychology","(184, 27156)",4.5,1537094239,10
+125,184,193565,"anime, comedy, gintama, remaster","(184, 193565)",3.5,1537098554,1
+126,193,260,"classic sci-fi, space action, space epic","(193, 260)",5.0,1435857223,3
+127,193,4878,"atmospheric, cult film, dreamlike, hallucinatory, psychological, surreal, time travel","(193, 4878)",4.0,1435857313,10
+128,193,7147,"dreamlike, sentimental, surreal, Tim Burton","(193, 7147)",3.5,1435856997,10
+129,193,97938,"cinematography, India, surreal","(193, 97938)",4.0,1435857055,10
+130,205,260,"oldie but goodie, sci-fi, Star Wars","(205, 260)",4.5,1519900208,4
+131,226,6938,"big wave, surfing","(226, 6938)",4.0,1159220558,10
+132,226,48780,ummarti2006,"(226, 48780)",4.0,1162427904,10
+133,256,126548,"funny, high school","(256, 126548)",4.5,1446999970,1
+134,274,68319,comic book,"(274, 68319)",2.5,1241762530,9
+135,289,3,"moldy, old","(289, 3)",2.5,1143424657,10
+136,289,1101,predictable,"(289, 1101)",2.0,1143424609,10
+137,291,50872,"a clever chef rat, inspirational","(291, 50872)",5.0,1453051531,10
+138,291,102007,animation,"(291, 102007)",3.0,1453051402,7
+139,291,118696,hope,"(291, 118696)",4.0,1453051448,10
+140,300,6711,atmospheric,"(300, 6711)",5.0,1425352017,10
+141,305,4034,drugs,"(305, 4034)",4.5,1516462785,6
+142,305,4995,mathematics,"(305, 4995)",5.0,1464428743,10
+143,305,6502,zombies,"(305, 6502)",5.0,1460136223,10
+144,305,6953,DEPRESSING,"(305, 6953)",1.0,1462473901,10
+145,305,8641,stupid,"(305, 8641)",3.0,1520707055,10
+146,305,34405,predictable,"(305, 34405)",2.5,1520284858,10
+147,305,55721,Favelas,"(305, 55721)",5.0,1460304582,10
+148,305,83134,black comedy,"(305, 83134)",5.0,1518811444,1
+149,318,778,"based on a book, dark comedy, narrated","(318, 778)",4.0,1333827950,1
+150,318,4612,reciprocal spectator,"(318, 4612)",4.5,1416086034,10
+151,318,4708,reciprocal spectator,"(318, 4708)",5.0,1415402882,10
+152,318,64034,"childish naivity, friendship","(318, 64034)",4.0,1443879884,10
+153,318,68954,"adventure, Bechdel Test:Fail, cartoon, children, computer animation, divorce, dogs, dreams, Pixar","(318, 68954)",4.0,1424546827,3
+154,318,71494,Narrative pisstake,"(318, 71494)",3.5,1426783730,10
+155,318,81158,american idolatry,"(318, 81158)",3.0,1299452905,10
+156,318,82459,"atmospheric, Coen Brothers, Jeff Bridges, Matt Damon, predictable","(318, 82459)",5.0,1300485319,10
+157,318,90769,"celebrity fetishism, mediacentralism, system holism","(318, 90769)",4.0,1414782929,10
+158,318,96084,"city politics, italy, political right versus left","(318, 96084)",4.5,1421145142,10
+159,318,111364,Creature Feature,"(318, 111364)",3.0,1415452491,10
+160,318,118784,"documentary, music industry, remix culture","(318, 118784)",3.5,1418982971,10
+161,318,127172,"film history, poetic, representation of children","(318, 127172)",3.5,1422789148,7
+162,319,364,"Disney, Disney animated feature, Oscar (Best Music - Original Score)","(319, 364)",5.0,1461351771,7
+163,327,1288,music,"(327, 1288)",4.0,1234790048,10
+164,327,1923,Ben Stiller,"(327, 1923)",5.0,1234789706,1
+165,327,2616,comic book,"(327, 2616)",3.5,1234787242,9
+166,327,3481,music,"(327, 3481)",5.0,1234788073,10
+167,327,3897,music,"(327, 3897)",4.0,1234788408,10
+168,327,8641,awesome,"(327, 8641)",5.0,1234787997,10
+169,327,51255,british comedy,"(327, 51255)",3.5,1234787329,1
+170,336,1,pixar,"(336, 1)",4.0,1122227329,7
+171,336,552,knights,"(336, 552)",3.0,1120568085,10
+172,336,1246,highschool,"(336, 1246)",4.5,1139046758,10
+173,336,32587,cult,"(336, 32587)",4.0,1139046729,10
+174,336,33660,boksdrama,"(336, 33660)",4.5,1139046157,5
+175,336,34162,stiller,"(336, 34162)",4.0,1139046805,1
+176,336,36529,wapendrama,"(336, 36529)",4.0,1139046225,5
+177,336,37729,animation,"(336, 37729)",2.5,1139047287,7
+178,336,38798,sisters,"(336, 38798)",3.5,1139047258,10
+179,356,2146,post-college,"(356, 2146)",4.5,1229142976,10
+180,356,37384,restaurant,"(356, 37384)",5.0,1229142463,10
+181,356,40955,transvestite,"(356, 40955)",4.0,1229140656,10
+182,356,44889,satire,"(356, 44889)",5.0,1229140843,10
+183,356,61323,dark comedy,"(356, 61323)",5.0,1228073421,1
+184,357,39,"chick flick, funny, Paul Rudd, quotable, seen more than once","(357, 39)",4.5,1348612128,1
+185,357,1059,"Amazing Cinematography, Leonardo DiCaprio, shakespeare, updated classics","(357, 1059)",4.5,1348627227,10
+186,357,2762,"Atmospheric, Bruce Willis, ghosts, imdb top 250, mindfuck, stylized, twist ending","(357, 2762)",5.0,1348610119,3
+187,357,4370,"android(s)/cyborg(s), artificial intelligence, Bittersweet, Steven Spielberg","(357, 4370)",4.0,1348628615,10
+188,357,5464,"cinematography, Tom Hanks","(357, 5464)",4.0,1348610439,10
+189,357,7078,"Bette Davis, Oscar (Best Actress)","(357, 7078)",5.0,1348628496,10
+190,357,7444,Mark Ruffalo,"(357, 7444)",4.5,1348627951,10
+191,357,7451,"clever, High School, lesbian subtext","(357, 7451)",4.5,1348627895,10
+192,357,48516,"Leonardo DiCaprio, suspense, twist ending, undercover cop","(357, 48516)",4.0,1348610145,3
+193,357,54997,Christian Bale,"(357, 54997)",4.0,1348611193,10
+194,357,55290,"Casey Affleck, great performances, twist","(357, 55290)",5.0,1348627110,3
+195,357,91500,ending,"(357, 91500)",4.5,1348626935,10
+196,357,91529,"Anne Hathaway, Christian Bale, Christopher Nolan, comic book, great ending, Morgan Freeman, political commentary, superhero","(357, 91529)",4.5,1348626808,9
+197,419,98961,"Afghanistan, American propaganda, assassination, military, terrorism","(419, 98961)",5.0,1362867270,10
+198,424,32,time travel,"(424, 32)",3.5,1457901858,10
+199,424,47,"mystery, twist ending","(424, 47)",5.0,1457842442,3
+200,424,50,"mindfuck, suspense, thriller, tricky, twist ending","(424, 50)",5.0,1457842255,2
+201,424,147,"addiction, heroin, Leonardo DiCaprio, Mark Wahlberg","(424, 147)",3.5,1457901610,10
+202,424,175,"controversial, New York City, Nudity (Full Frontal)","(424, 175)",4.5,1457901657,10
+203,424,223,"cynical, hilarious, independent film, quirky, witty","(424, 223)",3.5,1457844055,1
+204,424,288,"brutality, controversial, dark comedy, psychedelic, satire, stylized","(424, 288)",4.0,1457846167,1
+205,424,296,"cult film, drugs, Quentin Tarantino, Tarantino","(424, 296)",4.5,1457842438,3
+206,424,364,soundtrack,"(424, 364)",4.5,1457845483,10
+207,424,589,"apocalypse, Arnold Schwarzenegger, nuclear war, sci-fi, Suspense, time travel","(424, 589)",2.0,1457844832,3
+208,424,608,"based on a true story, dark comedy, KIDNAPPING, Steve Buscemi","(424, 608)",3.5,1457900853,1
+209,424,628,"edward norton, psychology, suspense, thought-provoking, twist ending","(424, 628)",5.0,1457843765,3
+210,424,1089,"ensemble cast, nonlinear, Quentin Tarantino, stylized","(424, 1089)",3.5,1457844568,3
+211,424,1120,freedom of expression,"(424, 1120)",3.5,1457845548,10
+212,424,1193,"emotional, jack nicholson","(424, 1193)",4.0,1457843675,10
+213,424,1219,"Alfred Hitchcock, psychology, suspenseful, tense","(424, 1219)",4.0,1457902433,3
+214,424,1258,"atmospheric, disturbing, Horror, jack nicholson, masterpiece, psychological, Stanley Kubrick, suspense","(424, 1258)",4.5,1457843515,2
+215,424,1343,"horror, Juliette Lewis, Martin Scorsese, Robert De Niro","(424, 1343)",4.5,1457846226,2
+216,424,1625,"mindfuck, Mystery, plot twist, psychological, suspense, twist ending","(424, 1625)",4.5,1457845231,3
+217,424,1704,inspirational,"(424, 1704)",4.0,1457844960,10
+218,424,1921,"hallucinatory, mental illness, mindfuck, paranoid","(424, 1921)",3.5,1457901918,10
+219,424,1923,"Ben Stiller, crude humor, goofy","(424, 1923)",3.5,1457846495,1
+220,424,2160,"Atmospheric, creepy, paranoia, scary, suspense","(424, 2160)",4.5,1457843272,2
+221,424,2296,SNL,"(424, 2296)",3.0,1457846694,10
+222,424,2329,thought-provoking,"(424, 2329)",4.0,1457843719,10
+223,424,2505,Nicolas Cage,"(424, 2505)",3.5,1457902188,10
+224,424,2571,"martial arts, sci-fi","(424, 2571)",2.0,1457842880,4
+225,424,2700,"adult humor, controversial, crude humor, free speech, parody, satire, south park, Trey Parker","(424, 2700)",5.0,1457844382,10
+226,424,2959,"dark comedy, psychology, thought-provoking, twist ending","(424, 2959)",4.5,1457843533,1
+227,424,3176,"based on a book, creepy, disturbing, Jude Law, murder, obsession, psychology, secrets, serial killer, suspense","(424, 3176)",5.0,1457845011,2
+228,424,3186,"asylum, based on a true story, Brittany Murphy, Mental Hospital, psychology, winona ryder","(424, 3186)",3.5,1457845982,10
+229,424,3499,"claustrophobic, horror, scary, stephen king, suspenseful, tense, thriller","(424, 3499)",3.5,1457846270,2
+230,424,3911,satire,"(424, 3911)",3.5,1457844164,10
+231,424,3948,"comedy, Robert De Niro","(424, 3948)",4.5,1457846475,1
+232,424,4226,"mystery, psychological, twist ending","(424, 4226)",4.5,1457843531,3
+233,424,4262,Al Pacino,"(424, 4262)",3.5,1457900953,6
+234,424,4816,"ben stiller, comedy, David Bowie, goofy, mindless one liners, Will Ferrell","(424, 4816)",3.0,1457846937,1
+235,424,6188,"comedy, Will Ferrell","(424, 6188)",4.5,1457846063,1
+236,424,6290,Rob Zombie,"(424, 6290)",4.5,1457902361,10
+237,424,8641,"comedy, Will Ferrell","(424, 8641)",4.5,1457846526,1
+238,424,8950,"Christian Bale, creepy, powerful ending, psychology, schizophrenia, twist ending","(424, 8950)",4.5,1457842871,2
+239,424,27020,"drugs, lesbian","(424, 27020)",3.5,1457901562,6
+240,424,30825,"Ben Stiller, Robert De Niro","(424, 30825)",3.5,1457846561,1
+241,424,34323,Rob Zombie,"(424, 34323)",4.5,1457902348,10
+242,424,40278,"Jake Gyllenhaal, Modern war","(424, 40278)",4.0,1457846430,10
+243,424,48516,"atmospheric, Jack Nicholson, Leonardo DiCaprio, Martin Scorsese, suspense","(424, 48516)",4.5,1457843150,3
+244,424,53127,"based on a play, conspiracy theory, creepy, Insanity, paranoia, PTSD","(424, 53127)",3.5,1457923219,2
+245,424,60756,"funny, will ferrell","(424, 60756)",4.0,1457846119,1
+246,424,66097,"claymation, creepy, dark, dark fairy tale, Surreal, Tim Burton","(424, 66097)",4.5,1457844454,2
+247,424,68157,"black comedy, Brad Pitt, Christoph Waltz, Quentin Tarantino, satire","(424, 68157)",4.5,1457844571,1
+248,424,74458,"insanity, Leonardo DiCaprio, Martin Scorsese, plot twist, psychological, Psychological Thriller, thought-provoking","(424, 74458)",5.0,1457843075,2
+249,424,79132,"action, alternate reality, Leonardo DiCaprio, sci-fi, thought-provoking, visually appealing","(424, 79132)",2.5,1457844887,3
+250,424,81591,"alter ego, atmospheric, creepy, horror, obsession, surreal","(424, 81591)",3.5,1457845648,2
+251,424,102903,"illusions, overcomplicated, predictable, stupid ending","(424, 102903)",1.5,1457845605,10
+252,424,104879,"absorbing, acting, atmospheric, Hugh Jackman, Jake Gyllenhaal, morality, mystery, thriller","(424, 104879)",5.0,1457846344,2
+253,424,106100,"Jared Leto, social commentary, uplifting","(424, 106100)",4.0,1457845909,10
+254,424,112515,"atmospheric, dark, Metaphorical, psychological","(424, 112515)",4.5,1457843209,10
+255,424,112556,"annoying, Stupid ending","(424, 112556)",1.0,1457845179,10
+256,435,2959,dark comedy,"(435, 2959)",5.0,1366676084,1
+257,435,58559,"psychology, superhero","(435, 58559)",5.0,1366676030,9
+258,439,5952,Myth,"(439, 5952)",4.0,1436944011,10
+259,439,98809,"Action, Myth","(439, 98809)",3.5,1436944067,3
+260,462,152711,"Cambodia, crime, human rights, murder, procedural","(462, 152711)",5.0,1455645862,10
+261,474,1,pixar,"(474, 1)",4.0,978575760,7
+262,474,2,game,"(474, 2)",3.0,1046886814,10
+263,474,5,"pregnancy, remake","(474, 5)",1.5,1053021982,10
+264,474,7,remake,"(474, 7)",3.0,978576381,10
+265,474,11,"politics, president","(474, 11)",2.5,1053021437,10
+266,474,14,"politics, president","(474, 14)",3.0,1120827247,10
+267,474,16,Mafia,"(474, 16)",4.0,1088426731,6
+268,474,17,Jane Austen,"(474, 17)",5.0,974668666,10
+269,474,21,Hollywood,"(474, 21)",4.0,1119232784,10
+270,474,22,serial killer,"(474, 22)",3.0,1046896006,10
+271,474,25,alcoholism,"(474, 25)",3.5,1127143175,10
+272,474,26,Shakespeare,"(474, 26)",3.5,1136942664,10
+273,474,28,"In Netflix queue, Jane Austen","(474, 28)",4.5,1165540007,10
+274,474,29,kidnapping,"(474, 29)",3.5,1053021379,10
+275,474,31,"high school, teacher","(474, 31)",3.0,1060105936,10
+276,474,32,time travel,"(474, 32)",4.0,1081177409,10
+277,474,34,"Animal movie, pigs","(474, 34)",4.5,1081177349,10
+278,474,36,"death penalty, Nun","(474, 36)",5.0,979180034,10
+279,474,38,twins,"(474, 38)",1.0,1089387538,10
+280,474,39,"Emma, Jane Austen","(474, 39)",3.5,1129579520,10
+281,474,41,Shakespeare,"(474, 41)",3.5,1089386983,10
+282,474,43,England,"(474, 43)",3.5,1081177921,10
+283,474,45,Journalism,"(474, 45)",4.0,1014924369,10
+284,474,46,wedding,"(474, 46)",3.0,1081178156,10
+285,474,47,serial killer,"(474, 47)",4.0,979180247,10
+286,474,50,heist,"(474, 50)",4.0,979179872,10
+287,474,52,"adoption, prostitution","(474, 52)",4.0,1004131663,10
+288,474,58,writing,"(474, 58)",3.5,1126533613,10
+289,474,62,music,"(474, 62)",2.5,1053021366,10
+290,474,92,Jekyll and Hyde,"(474, 92)",3.5,1087832141,10
+291,474,96,theater,"(474, 96)",3.5,1053020997,10
+292,474,101,crime,"(474, 101)",3.5,1081862489,10
+293,474,104,golf,"(474, 104)",2.0,978576279,10
+294,474,107,muppets,"(474, 107)",3.0,1046886514,10
+295,474,110,Scotland,"(474, 110)",3.0,1137180852,10
+296,474,111,assassination,"(474, 111)",4.0,994819405,10
+297,474,116,Holocaust,"(474, 116)",3.5,1053021622,10
+298,474,122,dating,"(474, 122)",1.0,974669063,10
+299,474,140,journalism,"(474, 140)",2.5,1053021739,10
+300,474,150,"moon, NASA, space","(474, 150)",4.5,1100119714,4
+301,474,153,superhero,"(474, 153)",3.0,1046881303,9
+302,474,160,Michael Crichton,"(474, 160)",1.0,1047055195,10
+303,474,161,submarine,"(474, 161)",3.5,1053020992,10
+304,474,162,In Netflix queue,"(474, 162)",3.5,1150143102,10
+305,474,185,computers,"(474, 185)",3.0,1069686436,10
+306,474,199,Made me cry,"(474, 199)",4.5,1107193580,10
+307,474,215,generation X,"(474, 215)",3.5,1087158195,10
+308,474,216,school,"(474, 216)",1.0,1072654034,10
+309,474,222,Ireland,"(474, 222)",4.0,974669033,10
+310,474,223,generation X,"(474, 223)",3.5,1089386951,10
+311,474,224,"mental illness, psychology","(474, 224)",3.5,1100292192,10
+312,474,230,Stephen King,"(474, 230)",3.5,1100292191,10
+313,474,232,In Netflix queue,"(474, 232)",4.0,1181348325,10
+314,474,235,movie business,"(474, 235)",4.0,1083589261,10
+315,474,237,"basketball, France, infertility","(474, 237)",3.5,1053021443,10
+316,474,246,basketball,"(474, 246)",4.0,1079359162,10
+317,474,247,Australia,"(474, 247)",4.0,1054557462,10
+318,474,249,Beethoven,"(474, 249)",4.0,974669033,10
+319,474,252,Einstein,"(474, 252)",2.0,1046887638,10
+320,474,257,court,"(474, 257)",3.0,1047043563,10
+321,474,260,"darth vader, luke skywalker, space opera","(474, 260)",4.0,975173633,4
+322,474,261,Louisa May Alcott,"(474, 261)",4.0,979180620,10
+323,474,262,"England, Girl Power, India","(474, 262)",4.0,979180182,10
+324,474,272,"England, mental illness","(474, 272)",3.5,1104518799,10
+325,474,277,Christmas,"(474, 277)",2.0,975173058,10
+326,474,280,prison,"(474, 280)",3.0,1004131763,10
+327,474,282,"disability, twins","(474, 282)",3.0,1060105525,10
+328,474,293,hit men,"(474, 293)",3.5,1079099410,10
+329,474,296,hit men,"(474, 296)",4.0,979179939,10
+330,474,300,TV,"(474, 300)",4.0,979180247,10
+331,474,307,Death,"(474, 307)",4.5,1100119745,10
+332,474,308,marriage,"(474, 308)",4.0,1054071868,10
+333,474,316,time travel,"(474, 316)",3.5,1053021158,10
+334,474,317,Christmas,"(474, 317)",2.0,1046886834,10
+335,474,318,"prison, Stephen King, wrongful imprisonment","(474, 318)",5.0,979179840,10
+336,474,329,Enterprise,"(474, 329)",4.0,1047054391,10
+337,474,337,mental illness,"(474, 337)",4.0,979180118,10
+338,474,338,serial killer,"(474, 338)",3.0,1060106290,10
+339,474,339,coma,"(474, 339)",3.5,1089386991,10
+340,474,342,"Australia, weddings","(474, 342)",3.5,1087832621,10
+341,474,345,"cross dressing, men in drag, remade","(474, 345)",3.5,1053434098,10
+342,474,349,Tom Clancy,"(474, 349)",3.0,974667484,10
+343,474,350,John Grisham,"(474, 350)",3.0,1047043549,10
+344,474,351,interracial romance,"(474, 351)",2.0,1047054878,8
+345,474,356,"shrimp, Vietnam","(474, 356)",3.0,1100292489,10
+346,474,357,wedding,"(474, 357)",3.0,1136942702,10
+347,474,361,gambling,"(474, 361)",3.5,1081178028,10
+348,474,364,Disney,"(474, 364)",4.5,1081177308,7
+349,474,371,journalism,"(474, 371)",3.0,1046887485,10
+350,474,377,bus,"(474, 377)",4.0,974667447,10
+351,474,380,spies,"(474, 380)",4.0,974667484,10
+352,474,381,alcoholism,"(474, 381)",2.5,1087832502,10
+353,474,412,Edith Wharton,"(474, 412)",4.0,975173511,10
+354,474,421,horses,"(474, 421)",3.5,1121262725,10
+355,474,425,"mental illness, Oscar (Best Actress)","(474, 425)",3.5,1089386945,10
+356,474,440,President,"(474, 440)",4.5,1053021228,10
+357,474,454,John Grisham,"(474, 454)",4.0,1060105268,10
+358,474,457,based on a TV show,"(474, 457)",5.0,974667331,10
+359,474,471,hula hoop,"(474, 471)",3.0,974668858,10
+360,474,474,assassination,"(474, 474)",3.5,1060702760,10
+361,474,475,Ireland,"(474, 475)",4.0,1123258243,10
+362,474,477,biopic,"(474, 477)",3.5,1053021161,10
+363,474,480,Dinosaur,"(474, 480)",4.5,1100119725,10
+364,474,488,"Japan, sexuality","(474, 488)",3.0,1047569232,10
+365,474,497,Shakespeare,"(474, 497)",5.0,974668666,10
+366,474,500,"cross dressing, divorce, men in drag","(474, 500)",2.5,1053021883,10
+367,474,508,AIDs,"(474, 508)",3.0,1047054679,10
+368,474,513,"radio, show business","(474, 513)",3.5,1068213691,10
+369,474,515,"Butler, Housekeeper","(474, 515)",5.0,975173710,10
+370,474,516,military,"(474, 516)",2.0,1046887453,10
+371,474,522,"Australia, racism, violence","(474, 522)",3.5,1129579501,6
+372,474,524,football,"(474, 524)",2.5,1053021512,10
+373,474,527,Holocaust,"(474, 527)",5.0,979179823,10
+374,474,529,chess,"(474, 529)",4.0,979180139,10
+375,474,534,C.S. Lewis,"(474, 534)",5.0,975173725,10
+376,474,535,large cast,"(474, 535)",4.0,1105106592,10
+377,474,538,race,"(474, 538)",3.5,1053021214,10
+378,474,539,Empire State Building,"(474, 539)",4.5,1100119744,10
+379,474,541,robots,"(474, 541)",3.0,1127688948,4
+380,474,543,beat poetry,"(474, 543)",4.5,1053020897,10
+381,474,551,"Christmas, Halloween","(474, 551)",3.0,974666694,10
+382,474,556,politics,"(474, 556)",3.0,1061160965,10
+383,474,562,adolescence,"(474, 562)",4.0,1129579373,10
+384,474,586,christmas,"(474, 586)",2.0,1046886823,10
+385,474,587,overrated,"(474, 587)",3.0,979180575,10
+386,474,588,Disney,"(474, 588)",4.0,978576063,7
+387,474,589,robots,"(474, 589)",4.0,1111499815,4
+388,474,590,"American Indians, Native Americans","(474, 590)",3.5,1100292189,10
+389,474,592,superhero,"(474, 592)",4.0,1002928730,9
+390,474,593,Hannibal Lector,"(474, 593)",4.5,1087831816,10
+391,474,594,Disney,"(474, 594)",3.0,983032069,7
+392,474,595,Disney,"(474, 595)",5.0,1100119595,7
+393,474,596,Disney,"(474, 596)",2.0,1047055015,7
+394,474,597,prostitution,"(474, 597)",4.0,974669033,10
+395,474,608,Coen Brothers,"(474, 608)",4.0,1137008687,10
+396,474,616,Disney,"(474, 616)",3.5,1100292175,7
+397,474,628,priest,"(474, 628)",3.0,979180633,10
+398,474,638,babies,"(474, 638)",3.0,1013367353,10
+399,474,647,Gulf War,"(474, 647)",3.0,988579881,10
+400,474,648,based on a TV show,"(474, 648)",3.5,1053021262,10
+401,474,668,India,"(474, 668)",3.5,1118667178,10
+402,474,670,India,"(474, 670)",4.5,1119537246,10
+403,474,671,spoof,"(474, 671)",3.5,1053021127,10
+404,474,673,Bugs Bunny,"(474, 673)",1.5,1053021728,10
+405,474,708,Veterinarian,"(474, 708)",4.5,1053020875,10
+406,474,720,Aardman,"(474, 720)",4.0,1052485296,10
+407,474,728,In Netflix queue,"(474, 728)",3.5,1181348043,10
+408,474,733,Alcatraz,"(474, 733)",4.0,1100291781,10
+409,474,736,Disaster,"(474, 736)",2.0,974667817,10
+410,474,745,Aardman,"(474, 745)",4.0,1052504886,10
+411,474,748,aliens,"(474, 748)",3.5,1060105961,4
+412,474,750,Atomic bomb,"(474, 750)",4.5,1059398628,10
+413,474,778,drug abuse,"(474, 778)",4.0,1092012114,10
+414,474,780,aliens,"(474, 780)",4.0,974667743,4
+415,474,805,John Grisham,"(474, 805)",3.0,1002928853,10
+416,474,818,based on a TV show,"(474, 818)",3.0,1046888085,10
+417,474,830,adultery,"(474, 830)",2.0,1046887848,10
+418,474,832,kidnapping,"(474, 832)",2.0,1047055027,10
+419,474,838,Jane Austen,"(474, 838)",3.0,974668977,10
+420,474,852,golf,"(474, 852)",2.0,1047055128,10
+421,474,858,Mafia,"(474, 858)",5.0,983033120,6
+422,474,892,Shakespeare,"(474, 892)",3.0,974668805,10
+423,474,898,divorce,"(474, 898)",4.0,1077028750,10
+424,474,899,movie business,"(474, 899)",4.0,1083589280,10
+425,474,900,France,"(474, 900)",3.5,1079963736,10
+426,474,902,Capote,"(474, 902)",3.5,1053021014,10
+427,474,903,falling,"(474, 903)",4.5,1055190127,10
+428,474,904,voyeurism,"(474, 904)",4.0,983032310,10
+429,474,905,Screwball,"(474, 905)",5.0,978575711,10
+430,474,906,Brooch,"(474, 906)",5.0,983032159,10
+431,474,907,divorce,"(474, 907)",3.0,1074607299,10
+432,474,908,Mount Rushmore,"(474, 908)",3.5,1089386974,10
+433,474,909,adultery,"(474, 909)",4.0,1046809068,10
+434,474,910,men in drag,"(474, 910)",4.0,1076347375,10
+435,474,911,heist,"(474, 911)",3.5,1100292182,10
+436,474,912,start of a beautiful friendship,"(474, 912)",5.0,983032184,10
+437,474,913,statue,"(474, 913)",4.0,1077546574,10
+438,474,914,George Bernard Shaw,"(474, 914)",4.5,1089386238,10
+439,474,915,rich guy - poor girl,"(474, 915)",4.0,983032398,10
+440,474,916,"Italy, royalty","(474, 916)",4.0,978575711,10
+441,474,918,1900s,"(474, 918)",3.5,1087831778,10
+442,474,919,"Dorothy, Toto","(474, 919)",4.5,1100291792,10
+443,474,920,Civil War,"(474, 920)",2.0,1047054549,10
+444,474,921,television,"(474, 921)",3.0,1087832282,10
+445,474,922,movies,"(474, 922)",4.0,1055439689,10
+446,474,923,Rosebud,"(474, 923)",4.5,1100119549,10
+447,474,924,"Hal, space","(474, 924)",4.0,1110994455,4
+448,474,926,Hollywood,"(474, 926)",4.5,1116517487,10
+449,474,927,divorce,"(474, 927)",4.0,1100119644,10
+450,474,928,Mrs. DeWinter,"(474, 928)",5.0,983032159,10
+451,474,929,"Europe, journalism, war","(474, 929)",3.5,1140441870,10
+452,474,930,assassination,"(474, 930)",4.0,983032159,10
+453,474,931,amnesia,"(474, 931)",3.5,1129579344,10
+454,474,934,wedding,"(474, 934)",3.0,1060606681,10
+455,474,936,"Cold War, Russia","(474, 936)",4.0,1137521219,10
+456,474,938,prostitution,"(474, 938)",2.5,1089387375,10
+457,474,940,swashbuckler,"(474, 940)",3.5,1120355738,10
+458,474,941,swashbuckler,"(474, 941)",3.5,1091456369,10
+459,474,943,ghosts,"(474, 943)",3.5,1088426742,10
+460,474,944,Shangri-La,"(474, 944)",4.0,1087217719,10
+461,474,945,Astaire and Rogers,"(474, 945)",4.5,1100119798,10
+462,474,947,"butler, homeless, screwball","(474, 947)",3.5,1137521088,10
+463,474,948,oil,"(474, 948)",4.0,1087831540,10
+464,474,950,Nick and Nora Charles,"(474, 950)",4.0,1143998585,10
+465,474,951,Screwball,"(474, 951)",4.5,1100119780,10
+466,474,952,race,"(474, 952)",3.0,1089386622,10
+467,474,953,Christmas,"(474, 953)",3.5,1100292234,10
+468,474,954,Politics,"(474, 954)",4.5,1053020968,10
+469,474,955,"leopard, screwball","(474, 955)",4.0,1087831602,10
+470,474,956,adoption,"(474, 956)",4.0,1101737024,10
+471,474,965,fugitive,"(474, 965)",4.0,1130961711,10
+472,474,968,zombies,"(474, 968)",4.0,1100291775,10
+473,474,969,missionary,"(474, 969)",5.0,983032364,10
+474,474,970,crime,"(474, 970)",3.5,1096471043,10
+475,474,971,Tennessee Williams,"(474, 971)",3.5,1087831992,10
+476,474,973,journalism,"(474, 973)",3.5,1084982148,10
+477,474,976,Hemingway,"(474, 976)",3.0,1100269624,10
+478,474,986,Animal movie,"(474, 986)",4.0,979180335,10
+479,474,991,Ireland,"(474, 991)",3.0,1060105177,10
+480,474,994,food,"(474, 994)",3.5,1129579365,10
+481,474,1006,"death penalty, John Grisham","(474, 1006)",3.5,1071595945,10
+482,474,1010,"Disney, race","(474, 1010)",3.0,983032872,7
+483,474,1013,twins,"(474, 1013)",3.0,1047054662,10
+484,474,1022,Disney,"(474, 1022)",4.0,1047054285,7
+485,474,1025,"Disney, King Arthur","(474, 1025)",3.0,983032763,7
+486,474,1028,"Disney, nanny","(474, 1028)",3.0,978575945,7
+487,474,1029,Disney,"(474, 1029)",3.0,983032230,7
+488,474,1030,Disney,"(474, 1030)",2.0,1046886529,7
+489,474,1032,Disney,"(474, 1032)",2.0,1047054796,7
+490,474,1033,Disney,"(474, 1033)",4.5,1128098723,7
+491,474,1035,Rogers and Hammerstein,"(474, 1035)",5.0,974666694,10
+492,474,1041,In Netflix queue,"(474, 1041)",4.5,1165539921,10
+493,474,1042,Music,"(474, 1042)",4.5,1053020921,10
+494,474,1059,Shakespeare,"(474, 1059)",4.5,1100119801,10
+495,474,1066,Astaire and Rogers,"(474, 1066)",4.0,1087832326,10
+496,474,1068,anti-Semitism,"(474, 1068)",3.5,1106231071,10
+497,474,1079,fish,"(474, 1079)",4.5,1089386295,10
+498,474,1080,"Bible, parody, religion","(474, 1080)",3.0,978575945,10
+499,474,1081,cross dressing,"(474, 1081)",3.5,1074888985,10
+500,474,1082,politics,"(474, 1082)",3.5,1098104429,10
+501,474,1084,"1920s, gangsters","(474, 1084)",3.5,1053021255,10
+502,474,1088,"dance, music","(474, 1088)",3.5,1100292226,10
+503,474,1089,"heist, violence","(474, 1089)",4.0,1109690419,6
+504,474,1090,Vietnam,"(474, 1090)",3.5,1118667194,10
+505,474,1093,"1960s, Jim Morrison, music","(474, 1093)",3.0,988579907,10
+506,474,1096,Holocaust,"(474, 1096)",2.5,1087832346,10
+507,474,1097,aliens,"(474, 1097)",4.0,1137521202,4
+508,474,1101,Navy,"(474, 1101)",3.5,1087832633,10
+509,474,1103,"1950s, adolescence","(474, 1103)",4.0,1002928717,10
+510,474,1104,Tennessee Williams,"(474, 1104)",4.0,983032344,10
+511,474,1124,aging,"(474, 1124)",4.0,1109039744,10
+512,474,1125,Clousseau,"(474, 1125)",3.0,978576312,10
+513,474,1135,military,"(474, 1135)",2.0,1046887386,10
+514,474,1136,"England, King Arthur","(474, 1136)",4.5,1081177312,10
+515,474,1147,"boxing, In Netflix queue","(474, 1147)",3.0,1201833166,10
+516,474,1148,Aardman,"(474, 1148)",4.0,1053372059,10
+517,474,1171,politics,"(474, 1171)",4.0,1129579494,10
+518,474,1177,Italy,"(474, 1177)",5.0,979180476,10
+519,474,1178,"court, military","(474, 1178)",3.5,1137521161,10
+520,474,1179,crime,"(474, 1179)",3.5,1087832040,10
+521,474,1183,adultery,"(474, 1183)",2.0,974668666,10
+522,474,1185,In Netflix queue,"(474, 1185)",4.0,1165539928,10
+523,474,1187,disability,"(474, 1187)",4.0,1101822547,10
+524,474,1188,"Australia, dance","(474, 1188)",5.0,974668617,10
+525,474,1189,"In Netflix queue, police","(474, 1189)",4.0,1181347974,10
+526,474,1193,mental illness,"(474, 1193)",3.5,1053021005,10
+527,474,1196,"I am your father, space, space opera","(474, 1196)",5.0,983034060,4
+528,474,1197,"Inigo Montoya, six-fingered man","(474, 1197)",4.5,1087832016,10
+529,474,1198,"archaeology, ark of the covenant, indiana jones","(474, 1198)",4.0,983034022,10
+530,474,1200,space,"(474, 1200)",3.5,1116853629,4
+531,474,1201,spaghetti western,"(474, 1201)",3.5,1086016563,10
+532,474,1203,court,"(474, 1203)",4.0,1047054271,10
+533,474,1204,Middle East,"(474, 1204)",4.0,1126284508,10
+534,474,1206,brainwashing,"(474, 1206)",3.5,1115044104,10
+535,474,1207,"Harper Lee, racism","(474, 1207)",4.0,1134343855,10
+536,474,1208,Vietnam,"(474, 1208)",3.5,1117481021,10
+537,474,1209,spaghetti western,"(474, 1209)",3.5,1126533605,10
+538,474,1210,"darth vader, luke skywalker, space opera","(474, 1210)",4.0,1002928633,4
+539,474,1212,"ferris wheel, Venice, zither","(474, 1212)",4.0,1143683482,10
+540,474,1213,Mafia,"(474, 1213)",3.5,1053021608,6
+541,474,1214,aliens,"(474, 1214)",4.0,1103379434,4
+542,474,1217,samurai,"(474, 1217)",4.0,1089386649,10
+543,474,1219,Norman Bates,"(474, 1219)",4.5,1089386307,10
+544,474,1220,Saturday Night Live,"(474, 1220)",3.0,1002928933,10
+545,474,1221,Mafia,"(474, 1221)",5.0,983033120,6
+546,474,1222,Vietnam,"(474, 1222)",4.0,1081862501,10
+547,474,1223,moon,"(474, 1223)",4.5,1053372016,10
+548,474,1224,Shakespeare,"(474, 1224)",4.0,1100614728,10
+549,474,1225,"Mozart, Salieri","(474, 1225)",4.5,1053020859,10
+550,474,1228,boxing,"(474, 1228)",3.0,1057669410,10
+551,474,1230,New York,"(474, 1230)",4.0,1082256456,10
+552,474,1231,"NASA, space","(474, 1231)",4.0,1047054374,4
+553,474,1233,submarine,"(474, 1233)",3.5,1120184777,10
+554,474,1234,The Entertainer,"(474, 1234)",4.0,1137520986,10
+555,474,1235,May-December romance,"(474, 1235)",4.0,1092142721,8
+556,474,1237,"chess, death","(474, 1237)",2.5,1053021721,10
+557,474,1240,robots,"(474, 1240)",4.0,1111412847,4
+558,474,1242,Civil War,"(474, 1242)",4.5,1053020981,10
+559,474,1243,Shakespeare sort of,"(474, 1243)",4.0,978575945,10
+560,474,1244,black and white,"(474, 1244)",3.5,1081516850,10
+561,474,1245,Mafia,"(474, 1245)",3.0,1112208257,6
+562,474,1246,High School,"(474, 1246)",4.5,1100119774,10
+563,474,1247,Simon and Garfunkel,"(474, 1247)",5.0,983032636,10
+564,474,1249,hit men,"(474, 1249)",3.5,1081177621,10
+565,474,1250,POW,"(474, 1250)",4.0,1082983320,10
+566,474,1252,incest,"(474, 1252)",4.0,1137521075,10
+567,474,1253,aliens,"(474, 1253)",4.0,1047054300,4
+568,474,1254,Cold,"(474, 1254)",4.5,1077546613,10
+569,474,1257,skiing,"(474, 1257)",3.0,978575993,10
+570,474,1258,Stephen King,"(474, 1258)",4.0,1093878418,10
+571,474,1259,Stephen King,"(474, 1259)",4.0,974666694,10
+572,474,1260,serial killer,"(474, 1260)",4.0,1090241152,10
+573,474,1262,POW,"(474, 1262)",4.0,1078151740,10
+574,474,1263,Vietnam,"(474, 1263)",3.0,1135824476,10
+575,474,1266,revenge,"(474, 1266)",4.0,1092758534,10
+576,474,1267,"assassination, brainwashing","(474, 1267)",4.0,1082256467,10
+577,474,1269,murder,"(474, 1269)",3.5,1111412874,10
+578,474,1270,time travel,"(474, 1270)",4.5,1081177274,10
+579,474,1272,World War II,"(474, 1272)",4.0,1092920253,10
+580,474,1276,prison,"(474, 1276)",3.5,1137520922,10
+581,474,1278,spoof,"(474, 1278)",4.0,978575888,10
+582,474,1281,Nazis,"(474, 1281)",4.0,1080568455,10
+583,474,1282,Disney,"(474, 1282)",3.0,975172919,7
+584,474,1283,gunfight,"(474, 1283)",3.5,1073272889,10
+585,474,1284,Hammett,"(474, 1284)",3.5,1107193636,10
+586,474,1285,high school,"(474, 1285)",4.0,978575865,10
+587,474,1288,"heavy metal, mockumentary, music","(474, 1288)",4.0,994819405,10
+588,474,1291,"archaeology, Holy Grail","(474, 1291)",4.0,983034060,10
+589,474,1292,television,"(474, 1292)",4.0,1116517469,10
+590,474,1293,India,"(474, 1293)",4.0,1124123484,10
+591,474,1296,E. M. Forster,"(474, 1296)",4.0,1100291494,10
+592,474,1299,"Cambodia, Vietnam","(474, 1299)",3.5,1129579334,10
+593,474,1301,"Shakespeare sort of, space","(474, 1301)",3.5,1108868138,4
+594,474,1302,baseball,"(474, 1302)",3.5,1053021069,10
+595,474,1303,India,"(474, 1303)",4.0,1074474320,10
+596,474,1304,crime,"(474, 1304)",3.5,1053021030,10
+597,474,1307,New York,"(474, 1307)",5.0,978575845,10
+598,474,1333,birds,"(474, 1333)",4.5,1090873560,10
+599,474,1343,remake,"(474, 1343)",4.5,1100119770,10
+600,474,1344,lawyer,"(474, 1344)",4.5,1100119817,10
+601,474,1345,"high school, prom, Stephen King","(474, 1345)",3.5,1053021541,10
+602,474,1348,vampires,"(474, 1348)",2.5,1053021757,10
+603,474,1350,demons,"(474, 1350)",4.0,1115584932,10
+604,474,1353,personals ads,"(474, 1353)",4.5,1100291485,10
+605,474,1354,religion,"(474, 1354)",4.5,1133730322,10
+606,474,1356,Borg,"(474, 1356)",5.0,974667386,10
+607,474,1358,ex-con,"(474, 1358)",4.5,1100119576,10
+608,474,1363,religion,"(474, 1363)",2.5,1060106011,10
+609,474,1366,Arthur Miller,"(474, 1366)",4.0,1014924339,10
+610,474,1367,"dogs, remake","(474, 1367)",2.0,1015352738,10
+611,474,1372,Klingons,"(474, 1372)",4.5,1056637089,10
+612,474,1374,Captain Kirk,"(474, 1374)",4.0,1002929032,10
+613,474,1376,whales,"(474, 1376)",4.0,1046809559,10
+614,474,1377,superhero,"(474, 1377)",2.0,1046886462,9
+615,474,1380,high school,"(474, 1380)",4.0,983033588,10
+616,474,1381,high school,"(474, 1381)",2.0,1046888244,10
+617,474,1387,Shark,"(474, 1387)",4.5,1053020983,10
+618,474,1389,shark,"(474, 1389)",1.5,1053021851,10
+619,474,1393,sports,"(474, 1393)",4.5,1128098731,10
+620,474,1394,Coen Brothers,"(474, 1394)",4.5,1100119843,10
+621,474,1396,spying,"(474, 1396)",4.0,1100291840,10
+622,474,1398,Hemingway,"(474, 1398)",2.5,1060106009,10
+623,474,1407,"slasher, spoof","(474, 1407)",4.0,1004131306,10
+624,474,1408,"Hawkeye, James Fennimore Cooper","(474, 1408)",4.0,1122395776,10
+625,474,1411,Shakespeare,"(474, 1411)",4.0,1047054317,10
+626,474,1413,Conan,"(474, 1413)",4.5,1100119854,10
+627,474,1416,Andrew Lloyd Weber,"(474, 1416)",2.0,1047043416,10
+628,474,1423,"In Netflix queue, Vietnam","(474, 1423)",4.0,1238350606,10
+629,474,1441,mental illness,"(474, 1441)",3.0,1047054453,10
+630,474,1449,mockumentary,"(474, 1449)",4.0,1056115380,10
+631,474,1466,Mafia,"(474, 1466)",4.0,975172958,6
+632,474,1474,jungle,"(474, 1474)",2.0,1046888155,10
+633,474,1485,lawyer,"(474, 1485)",3.0,978576348,10
+634,474,1496,Tolstoy,"(474, 1496)",4.0,1087832418,10
+635,474,1500,"hit men, reunion","(474, 1500)",4.0,978576081,10
+636,474,1513,reunion,"(474, 1513)",3.0,1046887465,10
+637,474,1537,ballroom dance,"(474, 1537)",4.0,978575690,10
+638,474,1544,dinosaurs,"(474, 1544)",1.0,974666859,10
+639,474,1545,death,"(474, 1545)",4.0,1130961769,10
+640,474,1569,weddings,"(474, 1569)",4.0,1100119621,10
+641,474,1573,transplants,"(474, 1573)",4.5,1100291472,10
+642,474,1580,aliens,"(474, 1580)",4.5,1100119838,4
+643,474,1586,military,"(474, 1586)",2.0,1047054923,10
+644,474,1608,president,"(474, 1608)",3.0,974667676,10
+645,474,1610,Tom Clancy,"(474, 1610)",4.0,974667355,10
+646,474,1617,Police,"(474, 1617)",5.0,988926266,10
+647,474,1625,twist ending,"(474, 1625)",4.0,979180293,3
+648,474,1635,1970s,"(474, 1635)",4.0,1123258150,10
+649,474,1643,"England, Queen Victoria","(474, 1643)",3.0,1089386695,10
+650,474,1645,lawyers,"(474, 1645)",2.0,1047054889,10
+651,474,1650,Henry James,"(474, 1650)",4.0,1060105233,10
+652,474,1653,future,"(474, 1653)",4.5,1100291475,10
+653,474,1663,military,"(474, 1663)",3.0,1004131709,10
+654,474,1674,Amish,"(474, 1674)",4.0,1137521038,10
+655,474,1680,alternate universe,"(474, 1680)",4.0,974668977,10
+656,474,1682,TV,"(474, 1682)",4.5,1100119638,10
+657,474,1683,Henry James,"(474, 1683)",4.5,1053021220,10
+658,474,1711,Savannah,"(474, 1711)",2.0,1046887524,10
+659,474,1717,"sequel, slasher, spoof","(474, 1717)",4.0,1046984756,10
+660,474,1719,"Canada, death","(474, 1719)",4.0,1139838564,10
+661,474,1721,shipwreck,"(474, 1721)",4.0,974668977,10
+662,474,1732,Coen Brothers,"(474, 1732)",3.5,1100119813,10
+663,474,1735,Charles Dickens,"(474, 1735)",2.0,979180015,10
+664,474,1748,amnesia,"(474, 1748)",4.0,1132173434,10
+665,474,1777,1980s,"(474, 1777)",4.5,1081177379,10
+666,474,1797,In Netflix queue,"(474, 1797)",4.0,1165540018,10
+667,474,1810,politics,"(474, 1810)",2.5,1081862512,10
+668,474,1834,twist ending,"(474, 1834)",4.0,1002928499,3
+669,474,1893,In Netflix queue,"(474, 1893)",4.5,1181348028,10
+670,474,1902,generation X,"(474, 1902)",4.0,1015352994,10
+671,474,1909,conspiracy,"(474, 1909)",4.5,1081177337,10
+672,474,1912,heist,"(474, 1912)",4.0,974667301,10
+673,474,1913,Australia,"(474, 1913)",4.0,1103119116,10
+674,474,1917,space,"(474, 1917)",1.5,1053021886,4
+675,474,1921,mathematics,"(474, 1921)",4.0,1089638204,10
+676,474,1931,ships,"(474, 1931)",4.0,1098710014,10
+677,474,1938,alcoholism,"(474, 1938)",4.0,1106231062,10
+678,474,1940,"anti-Semitism, Judaism","(474, 1940)",4.0,1100119605,10
+679,474,1942,"Huey Long, In Netflix queue, Robert Penn Warren","(474, 1942)",3.5,1165539986,10
+680,474,1945,"boxing, coulda been a contender","(474, 1945)",4.0,1100119625,10
+681,474,1947,Gangs,"(474, 1947)",5.0,983032675,10
+682,474,1950,racism,"(474, 1950)",3.5,1137520939,10
+683,474,1951,Dickens,"(474, 1951)",4.0,1100008865,10
+684,474,1952,prostitution,"(474, 1952)",4.0,1085403482,10
+685,474,1953,"drugs, police","(474, 1953)",4.0,1123258161,6
+686,474,1954,"boxing, sports","(474, 1954)",4.0,983033369,10
+687,474,1955,divorce,"(474, 1955)",4.5,1081177360,10
+688,474,1957,"Olympics, sports","(474, 1957)",5.0,988926325,10
+689,474,1959,"adultery, Africa","(474, 1959)",4.0,1105465745,10
+690,474,1960,China,"(474, 1960)",4.0,1089386143,10
+691,474,1961,autism,"(474, 1961)",4.0,1047054374,10
+692,474,1962,rasicm,"(474, 1962)",4.0,1002928215,10
+693,474,1975,Jason,"(474, 1975)",2.0,1046984882,10
+694,474,1976,Jason,"(474, 1976)",0.5,1056041417,10
+695,474,1977,Jason,"(474, 1977)",1.5,1056041409,10
+696,474,1983,halloween,"(474, 1983)",2.0,1002757205,10
+697,474,1984,halloween,"(474, 1984)",2.0,1046984897,10
+698,474,1994,ghosts,"(474, 1994)",4.0,1136251475,10
+699,474,1995,ghosts,"(474, 1995)",2.0,1046984846,10
+700,474,1996,ghosts,"(474, 1996)",1.0,1046984897,10
+701,474,1997,demons,"(474, 1997)",4.0,975173679,10
+702,474,2006,"California, Mexico","(474, 2006)",4.0,974667415,10
+703,474,2011,time travel,"(474, 2011)",2.0,1014924563,10
+704,474,2019,samurai,"(474, 2019)",4.0,1058290375,10
+705,474,2020,adultery,"(474, 2020)",4.0,1002928592,10
+706,474,2022,"Bible, Katzanzakis","(474, 2022)",4.0,1143683448,10
+707,474,2028,World War II,"(474, 2028)",3.0,974667301,10
+708,474,2054,Disney,"(474, 2054)",4.0,1046886480,7
+709,474,2058,police,"(474, 2058)",4.0,1100291838,10
+710,474,2059,twins,"(474, 2059)",2.0,1014924460,10
+711,474,2064,"General Motors, Michigan","(474, 2064)",4.0,1077546599,10
+712,474,2066,memory,"(474, 2066)",4.0,1137521317,10
+713,474,2070,music,"(474, 2070)",4.0,1113829296,10
+714,474,2076,"sexuality, suburbia","(474, 2076)",4.0,1137418822,10
+715,474,2078,Disney,"(474, 2078)",4.0,983032723,7
+716,474,2080,Disney,"(474, 2080)",4.0,978575802,7
+717,474,2085,Disney,"(474, 2085)",4.0,983032739,7
+718,474,2097,"carnival, Ray Bradbury","(474, 2097)",3.5,1138559440,10
+719,474,2100,mermaid,"(474, 2100)",4.0,1100291843,10
+720,474,2108,weather forecaster,"(474, 2108)",4.0,974668805,10
+721,474,2114,S.E. Hinton,"(474, 2114)",4.0,1046978958,10
+722,474,2115,archaeology,"(474, 2115)",2.0,1087832889,10
+723,474,2116,Tolkein,"(474, 2116)",2.0,1014924446,10
+724,474,2118,Stephen King,"(474, 2118)",4.0,1060606649,10
+725,474,2121,Stephen King,"(474, 2121)",2.0,1046984787,10
+726,474,2122,Stephen King,"(474, 2122)",1.0,988580034,10
+727,474,2139,mice,"(474, 2139)",4.0,1137521182,10
+728,474,2145,"1980s, high school","(474, 2145)",4.0,978576312,10
+729,474,2160,demons,"(474, 2160)",4.0,1046809310,10
+730,474,2167,vampires,"(474, 2167)",2.0,974667447,10
+731,474,2171,"aquarium, Boston, personals ads","(474, 2171)",5.0,974668805,10
+732,474,2186,murder,"(474, 2186)",4.5,1087831510,10
+733,474,2187,theater,"(474, 2187)",3.5,1140467418,10
+734,474,2194,"Capone, gangsters","(474, 2194)",4.0,1135958420,10
+735,474,2202,survival,"(474, 2202)",4.5,1053020913,10
+736,474,2203,small towns,"(474, 2203)",4.0,1083073394,10
+737,474,2206,paranoia,"(474, 2206)",4.5,1100119901,10
+738,474,2208,train,"(474, 2208)",4.0,1053020865,10
+739,474,2243,journalism,"(474, 2243)",4.5,1096640078,10
+740,474,2247,Mafia,"(474, 2247)",2.0,1046887273,6
+741,474,2248,"In Your Eyes, Lloyd Dobbler","(474, 2248)",5.0,983034022,10
+742,474,2249,Mafia,"(474, 2249)",2.0,1046887584,6
+743,474,2268,"court, military","(474, 2268)",4.0,1100291814,10
+744,474,2291,freaks,"(474, 2291)",4.5,1100291512,10
+745,474,2295,Screwball,"(474, 2295)",5.0,975173593,10
+746,474,2300,Broadway,"(474, 2300)",4.5,1053021139,10
+747,474,2302,court,"(474, 2302)",2.0,978576252,10
+748,474,2310,adolescence,"(474, 2310)",4.0,979180139,10
+749,474,2312,death penalty,"(474, 2312)",2.5,1053021554,10
+750,474,2313,freaks,"(474, 2313)",4.5,1120355710,10
+751,474,2324,Holocaust,"(474, 2324)",5.0,978575620,10
+752,474,2329,racism,"(474, 2329)",4.0,979180103,10
+753,474,2334,terrorism,"(474, 2334)",4.0,974667676,10
+754,474,2335,football,"(474, 2335)",2.0,1046888115,10
+755,474,2336,England,"(474, 2336)",4.0,1081177394,10
+756,474,2355,Pixar,"(474, 2355)",4.0,979180216,7
+757,474,2357,South America,"(474, 2357)",4.5,1089386393,10
+758,474,2390,In Netflix queue,"(474, 2390)",3.5,1181348052,10
+759,474,2391,heist,"(474, 2391)",4.0,1063115362,10
+760,474,2394,"Bible, Moses","(474, 2394)",5.0,1087831505,10
+761,474,2396,England,"(474, 2396)",4.0,974668617,10
+762,474,2410,boxing,"(474, 2410)",2.0,994819132,10
+763,474,2411,boxing,"(474, 2411)",1.0,994819201,10
+764,474,2412,boxing,"(474, 2412)",1.5,1060106582,10
+765,474,2420,martial arts,"(474, 2420)",4.0,1004131774,10
+766,474,2421,martial arts,"(474, 2421)",2.0,1002757147,10
+767,474,2422,martial arts,"(474, 2422)",2.0,1046881396,10
+768,474,2423,christmas,"(474, 2423)",1.5,1087832813,10
+769,474,2424,"e-mail, remake","(474, 2424)",5.0,974669217,10
+770,474,2431,doctors,"(474, 2431)",1.0,1002757147,10
+771,474,2442,In Netflix queue,"(474, 2442)",4.0,1165540037,10
+772,474,2463,kidnapping,"(474, 2463)",2.0,978576130,10
+773,474,2467,religion,"(474, 2467)",3.5,1140703333,10
+774,474,2470,Australia,"(474, 2470)",2.0,1002757072,10
+775,474,2471,Australia,"(474, 2471)",1.0,1002757177,10
+776,474,2491,food,"(474, 2491)",2.0,1046887780,10
+777,474,2494,"Holocaust, Hungary","(474, 2494)",4.0,1137179411,10
+778,474,2502,"stapler, workplace","(474, 2502)",4.0,1046875430,10
+779,474,2506,disability,"(474, 2506)",2.0,1046887869,10
+780,474,2517,Stephen King,"(474, 2517)",1.0,1089387529,10
+781,474,2529,twist ending,"(474, 2529)",4.0,1051017513,3
+782,474,2550,ghosts,"(474, 2550)",4.0,1046979004,10
+783,474,2553,evil children,"(474, 2553)",3.5,1069682754,7
+784,474,2554,evil children,"(474, 2554)",3.5,1100292516,7
+785,474,2565,Siam,"(474, 2565)",5.0,983032381,10
+786,474,2571,alternate universe,"(474, 2571)",4.5,1053020932,10
+787,474,2572,Shakespeare sort of,"(474, 2572)",2.5,1087832512,10
+788,474,2579,black and white,"(474, 2579)",4.0,1046978769,10
+789,474,2581,high school,"(474, 2581)",4.0,1046887440,10
+790,474,2583,southern US,"(474, 2583)",4.0,1081177421,10
+791,474,2598,golfing,"(474, 2598)",2.0,1046887607,10
+792,474,2600,virtual reality,"(474, 2600)",4.0,1049892884,10
+793,474,2612,motherhood,"(474, 2612)",4.0,1089386149,10
+794,474,2628,"prequel, the Force","(474, 2628)",4.0,974667509,10
+795,474,2640,superhero,"(474, 2640)",4.0,983033492,9
+796,474,2641,superhero,"(474, 2641)",4.0,994819094,9
+797,474,2642,superhero,"(474, 2642)",1.5,1053021706,9
+798,474,2648,In Netflix queue,"(474, 2648)",3.5,1189991079,10
+799,474,2660,aliens,"(474, 2660)",3.5,1137521191,4
+800,474,2664,1950s,"(474, 2664)",4.0,1107271718,10
+801,474,2692,alternate endings,"(474, 2692)",4.0,1100119630,10
+802,474,2693,Star Trek,"(474, 2693)",4.0,1048638289,10
+803,474,2710,"claims to be true, video","(474, 2710)",4.0,1100291865,10
+804,474,2712,sexuality,"(474, 2712)",4.0,1052743131,10
+805,474,2716,ghosts,"(474, 2716)",4.5,1053020930,10
+806,474,2717,Ghosts,"(474, 2717)",0.5,1053021961,10
+807,474,2719,remake,"(474, 2719)",1.5,1053021943,10
+808,474,2723,superhero,"(474, 2723)",4.5,1100119885,9
+809,474,2726,heist,"(474, 2726)",4.5,1090241137,10
+810,474,2728,"crucifixion, Rome, slavery","(474, 2728)",4.0,1137520886,10
+811,474,2745,"Missionary, Priest","(474, 2745)",5.0,1046978794,10
+812,474,2750,"nostalgia, radio","(474, 2750)",3.5,1137443244,10
+813,474,2761,robots,"(474, 2761)",4.0,1055172901,4
+814,474,2762,"ghosts, I see dead people","(474, 2762)",5.0,979179872,10
+815,474,2787,Stephen King,"(474, 2787)",2.0,1046984669,10
+816,474,2791,"aviation, spoof","(474, 2791)",4.0,975172982,10
+817,474,2797,children,"(474, 2797)",4.0,1100291863,7
+818,474,2801,gambling,"(474, 2801)",4.5,1100119890,10
+819,474,2803,lawyers,"(474, 2803)",2.5,1060105625,10
+820,474,2804,Christmas,"(474, 2804)",4.0,978575760,10
+821,474,2827,aliens,"(474, 2827)",2.0,1087832804,4
+822,474,2863,Beatles,"(474, 2863)",4.0,1089386751,10
+823,474,2871,river,"(474, 2871)",4.0,1095682854,10
+824,474,2872,"England, King Arthur","(474, 2872)",4.0,1047054300,10
+825,474,2915,prostitution,"(474, 2915)",2.0,978575909,10
+826,474,2918,High School,"(474, 2918)",4.0,1100291516,10
+827,474,2919,"Academy award (Best Supporting Actress), Indonesia, journalism","(474, 2919)",4.0,1137367870,10
+828,474,2927,adultery,"(474, 2927)",4.0,1116853579,10
+829,474,2935,gambling,"(474, 2935)",4.0,1100291886,10
+830,474,2937,screwball,"(474, 2937)",4.5,1112018926,10
+831,474,2940,nightclub,"(474, 2940)",4.0,1129579471,10
+832,474,2941,island,"(474, 2941)",4.0,1120573197,10
+833,474,2943,Vietnam,"(474, 2943)",3.5,1138804246,10
+834,474,2952,gambling,"(474, 2952)",4.0,1007321170,10
+835,474,2959,violence,"(474, 2959)",4.0,1100291874,6
+836,474,2966,"brothers, lawn mower","(474, 2966)",4.0,1104518812,10
+837,474,2967,evil children,"(474, 2967)",4.0,1090937488,7
+838,474,2968,time travel,"(474, 2968)",4.0,1130961887,10
+839,474,2987,live action/animation,"(474, 2987)",4.0,1004131358,3
+840,474,3000,anime,"(474, 3000)",4.0,1002928294,10
+841,474,3006,"tobacco, true story","(474, 3006)",4.0,979179921,10
+842,474,3011,dance marathon,"(474, 3011)",4.0,1047054405,10
+843,474,3028,Shakespeare,"(474, 3028)",2.0,1047055117,10
+844,474,3030,samurai,"(474, 3030)",4.0,1091456379,10
+845,474,3039,class,"(474, 3039)",4.0,978576105,10
+846,474,3040,camp,"(474, 3040)",1.0,1047055282,10
+847,474,3044,"memory, music","(474, 3044)",5.0,974668754,10
+848,474,3052,religion,"(474, 3052)",4.0,1007320487,10
+849,474,3071,high school,"(474, 3071)",2.5,1089387453,10
+850,474,3072,New York,"(474, 3072)",5.0,978575669,10
+851,474,3081,Ichabod Crane,"(474, 3081)",2.0,1047055085,10
+852,474,3087,"christmas, new york","(474, 3087)",1.5,1053021787,10
+853,474,3095,"depression, dust bowl","(474, 3095)",4.5,1082380938,10
+854,474,3097,remade,"(474, 3097)",4.0,988580233,10
+855,474,3098,"baseball, sports","(474, 3098)",3.5,1146448082,10
+856,474,3101,adultery,"(474, 3101)",4.0,1004131808,10
+857,474,3108,homeless,"(474, 3108)",2.5,1063115377,10
+858,474,3111,racism,"(474, 3111)",4.0,1094562846,10
+859,474,3114,Pixar,"(474, 3114)",4.0,1002927941,7
+860,474,3115,men in drag,"(474, 3115)",4.0,1069686107,10
+861,474,3125,Graham Greene,"(474, 3125)",4.0,1014924099,10
+862,474,3135,fatherhood,"(474, 3135)",4.0,1115125983,10
+863,474,3147,Stephen King,"(474, 3147)",4.0,1047054328,10
+864,474,3152,black-and-white,"(474, 3152)",4.0,1137521240,10
+865,474,3160,L.A.,"(474, 3160)",5.0,974667033,10
+866,474,3174,Andy Kaufman,"(474, 3174)",4.0,1058792760,10
+867,474,3175,spoof,"(474, 3175)",4.0,978576150,10
+868,474,3176,"Europe, murder","(474, 3176)",5.0,1100119694,10
+869,474,3178,boxing,"(474, 3178)",2.0,1047054582,10
+870,474,3181,Shakespeare,"(474, 3181)",4.5,1094562810,10
+871,474,3210,high school,"(474, 3210)",2.0,978575888,10
+872,474,3211,"a dingo ate my baby, Australia","(474, 3211)",4.0,1115731236,10
+873,474,3247,nuns,"(474, 3247)",2.0,1046809604,10
+874,474,3258,plastic surgery,"(474, 3258)",2.5,1069686902,10
+875,474,3259,Ireland,"(474, 3259)",2.5,1053021837,10
+876,474,3260,E.M. Forster,"(474, 3260)",4.5,1100291573,10
+877,474,3263,basketball,"(474, 3263)",2.0,978576366,10
+878,474,3270,figure skating,"(474, 3270)",2.5,1053021399,10
+879,474,3273,"slasher, spoof","(474, 3273)",4.0,975173316,10
+880,474,3281,sexuality,"(474, 3281)",2.0,1052088727,10
+881,474,3306,"big top, circus","(474, 3306)",4.5,1100119916,10
+882,474,3307,blind,"(474, 3307)",4.5,1089386442,10
+883,474,3310,orphans,"(474, 3310)",4.0,1078495463,10
+884,474,3317,writing,"(474, 3317)",4.0,1047054422,10
+885,474,3330,"adolescence, sexuality","(474, 3330)",4.0,1046809336,10
+886,474,3341,remade,"(474, 3341)",4.0,1098104401,10
+887,474,3360,basketball,"(474, 3360)",3.5,1132423135,10
+888,474,3384,subway,"(474, 3384)",4.0,1068472840,10
+889,474,3385,Peace Corp,"(474, 3385)",2.0,1089387345,10
+890,474,3386,"politics, president","(474, 3386)",4.0,1108389753,10
+891,474,3408,"scandal, true story","(474, 3408)",4.0,1130961874,10
+892,474,3420,lawyers,"(474, 3420)",2.5,1109039902,10
+893,474,3421,"college, TOGA","(474, 3421)",2.0,978575993,10
+894,474,3424,racism,"(474, 3424)",4.0,1058208764,10
+895,474,3429,aardman,"(474, 3429)",3.5,1140626546,10
+896,474,3435,Insurance,"(474, 3435)",4.0,1137520870,10
+897,474,3447,Pearl S Buck,"(474, 3447)",4.0,1074607306,10
+898,474,3451,"Hepburn and Tracy, interracial marriage, prejudice, racism","(474, 3451)",4.5,1100119928,10
+899,474,3461,island,"(474, 3461)",4.0,1094562821,10
+900,474,3462,factory,"(474, 3462)",4.5,1089386468,10
+901,474,3468,pool,"(474, 3468)",3.5,1137521002,10
+902,474,3469,"court, evolution, religion","(474, 3469)",2.5,1124123495,10
+903,474,3475,class,"(474, 3475)",4.0,1102081377,10
+904,474,3481,Nick Hornby,"(474, 3481)",5.0,974666694,10
+905,474,3489,Peter Pan,"(474, 3489)",4.0,1046886494,10
+906,474,3498,In Netflix queue,"(474, 3498)",4.0,1165539939,10
+907,474,3502,death,"(474, 3502)",2.5,1060106016,10
+908,474,3504,journalism,"(474, 3504)",4.0,978575646,10
+909,474,3512,transplants,"(474, 3512)",4.5,1100291586,10
+910,474,3515,alternate endings,"(474, 3515)",4.0,1081177398,10
+911,474,3526,families,"(474, 3526)",4.0,978575845,10
+912,474,3528,psychiatrist,"(474, 3528)",2.0,1007320758,10
+913,474,3536,"priest, rabbi","(474, 3536)",4.5,1100119934,10
+914,474,3546,show business,"(474, 3546)",4.0,994819424,10
+915,474,3548,1920s,"(474, 3548)",4.5,1087831518,10
+916,474,3549,Gambling,"(474, 3549)",5.0,1004131501,10
+917,474,3552,golf,"(474, 3552)",2.0,1014924296,10
+918,474,3556,"1970s, suicide","(474, 3556)",4.0,1115584884,10
+919,474,3566,"business, religion","(474, 3566)",4.5,1081177351,10
+920,474,3608,Pee Wee Herman,"(474, 3608)",4.0,1087832154,10
+921,474,3629,mining,"(474, 3629)",4.0,1093465932,10
+922,474,3675,Christmas,"(474, 3675)",4.5,1081177333,10
+923,474,3683,Coen Brothers,"(474, 3683)",3.5,1137521116,10
+924,474,3712,television,"(474, 3712)",2.5,1087832841,10
+925,474,3723,Shakespeare,"(474, 3723)",4.0,979180620,10
+926,474,3724,Vietnam,"(474, 3724)",3.5,1201833307,10
+927,474,3730,spying,"(474, 3730)",4.0,983031364,10
+928,474,3735,police,"(474, 3735)",4.0,1089063215,10
+929,474,3793,superhero,"(474, 3793)",4.5,1081177383,9
+930,474,3801,court,"(474, 3801)",4.0,1123505456,10
+931,474,3811,court,"(474, 3811)",4.0,1107444826,10
+932,474,3816,missing children,"(474, 3816)",4.0,1132195959,7
+933,474,3844,diabetes,"(474, 3844)",2.5,1060104337,10
+934,474,3849,disability,"(474, 3849)",4.0,1107444848,10
+935,474,3859,"In Netflix queue, televangelist","(474, 3859)",4.0,1165539925,10
+936,474,3877,superhero,"(474, 3877)",2.0,1069686562,9
+937,474,3897,"journalism, music, Rolling Stone","(474, 3897)",4.5,1081177270,10
+938,474,3910,"blindness, factory","(474, 3910)",4.0,1118667168,10
+939,474,3911,Dogs,"(474, 3911)",4.5,1100119911,10
+940,474,3932,invisibility,"(474, 3932)",4.0,1090595309,10
+941,474,3949,drug abuse,"(474, 3949)",4.0,1087831561,10
+942,474,3967,ballet,"(474, 3967)",4.0,1047054286,10
+943,474,3983,family,"(474, 3983)",4.5,1100291597,7
+944,474,3988,Dr. Seuss,"(474, 3988)",1.0,1013367485,10
+945,474,3994,superhero,"(474, 3994)",4.5,1053021115,9
+946,474,3996,"china, martial arts","(474, 3996)",4.0,1116853568,10
+947,474,4007,business,"(474, 4007)",4.0,1119364260,10
+948,474,4012,stand-up comedy,"(474, 4012)",2.0,1046887657,1
+949,474,4019,writing,"(474, 4019)",4.0,994819034,10
+950,474,4024,Edith Wharton,"(474, 4024)",2.5,1053021767,10
+951,474,4025,pageant,"(474, 4025)",2.0,1047054986,10
+952,474,4027,bluegrass,"(474, 4027)",4.0,1137520956,10
+953,474,4029,movies,"(474, 4029)",4.5,1100291592,10
+954,474,4034,based on a TV show,"(474, 4034)",4.5,1081177376,10
+955,474,4046,Quakers,"(474, 4046)",4.0,1122323382,10
+956,474,4077,psychopaths,"(474, 4077)",4.0,1046809354,10
+957,474,4105,zombies,"(474, 4105)",2.0,983031759,10
+958,474,4113,Tennessee Williams,"(474, 4113)",4.0,983031744,10
+959,474,4138,demons,"(474, 4138)",1.0,1046984744,10
+960,474,4160,death penalty,"(474, 4160)",4.5,1110551272,10
+961,474,4164,"homeless, New York","(474, 4164)",4.0,1002757130,10
+962,474,4166,reality TV,"(474, 4166)",2.0,1046809310,10
+963,474,4171,Eugene O'Neill,"(474, 4171)",4.0,1106575103,10
+964,474,4184,Christmas,"(474, 4184)",4.0,1124306259,10
+965,474,4189,"Bible, religion","(474, 4189)",2.5,1082256503,10
+966,474,4190,"preacher, religion","(474, 4190)",4.0,1137520911,10
+967,474,4191,sexuality,"(474, 4191)",4.0,1098710072,10
+968,474,4204,virginity,"(474, 4204)",1.0,988580411,10
+969,474,4210,"Hannibal Lecter, serial killer","(474, 4210)",3.5,1059492623,10
+970,474,4211,von Bulow,"(474, 4211)",4.0,1100526654,10
+971,474,4214,college,"(474, 4214)",2.0,988580397,10
+972,474,4218,In Netflix queue,"(474, 4218)",3.5,1165540071,10
+973,474,4221,football,"(474, 4221)",2.0,988579966,10
+974,474,4226,Backwards. memory,"(474, 4226)",5.0,990751680,10
+975,474,4232,spying,"(474, 4232)",4.0,1002756987,10
+976,474,4246,singletons,"(474, 4246)",4.5,1053021226,10
+977,474,4259,Nabokov,"(474, 4259)",4.0,1106748027,10
+978,474,4263,alcoholism,"(474, 4263)",4.0,1126038260,10
+979,474,4292,Union,"(474, 4292)",4.0,1136942681,10
+980,474,4296,death,"(474, 4296)",2.0,1092833416,10
+981,474,4306,fairy tales,"(474, 4306)",4.5,1081177366,10
+982,474,4316,figure skating,"(474, 4316)",2.5,1060106237,10
+983,474,4326,"race, rasicm","(474, 4326)",2.5,1087832829,10
+984,474,4333,Strangers on a Train,"(474, 4333)",4.0,994819132,10
+985,474,4347,Holocaust,"(474, 4347)",4.0,1100292412,10
+986,474,4356,In Netflix queue,"(474, 4356)",3.0,1165540056,10
+987,474,4359,adultery,"(474, 4359)",4.0,1093524784,10
+988,474,4361,men in drag,"(474, 4361)",4.0,1047054406,10
+989,474,4370,robots,"(474, 4370)",4.5,1053020857,4
+990,474,4380,accident,"(474, 4380)",4.0,1046875244,10
+991,474,4396,race,"(474, 4396)",1.0,994819163,10
+992,474,4447,lawyers,"(474, 4447)",4.0,1014924360,10
+993,474,4448,heist,"(474, 4448)",4.0,1002756871,10
+994,474,4465,rape,"(474, 4465)",4.0,1004131709,10
+995,474,4476,twins,"(474, 4476)",2.0,1046887879,10
+996,474,4477,circus,"(474, 4477)",1.0,1046886579,10
+997,474,4489,"Africa, immigrants","(474, 4489)",2.0,1014924485,10
+998,474,4495,New York,"(474, 4495)",5.0,1014923714,10
+999,474,4526,aliens,"(474, 4526)",1.5,1089387499,4
+1000,474,4537,hippies,"(474, 4537)",4.5,1116386383,10
+1001,474,4545,robots,"(474, 4545)",2.0,1046887780,4
+1002,474,4546,"kidnapping, remade","(474, 4546)",4.0,1053092000,10
+1003,474,4558,twins,"(474, 4558)",2.0,1046887584,10
+1004,474,4571,time travel,"(474, 4571)",4.5,1100291607,10
+1005,474,4600,doctors,"(474, 4600)",2.5,1087832607,10
+1006,474,4621,babies,"(474, 4621)",2.0,1046887573,10
+1007,474,4623,baseball,"(474, 4623)",2.0,1002929032,10
+1008,474,4638,dinosaurs,"(474, 4638)",2.0,1053021921,10
+1009,474,4639,"Hollywood, movie business","(474, 4639)",2.5,1053021435,10
+1010,474,4641,adolescence,"(474, 4641)",4.0,1046809155,10
+1011,474,4677,dogs,"(474, 4677)",1.5,1053021874,10
+1012,474,4678,television,"(474, 4678)",4.0,1046887498,10
+1013,474,4787,prodigies,"(474, 4787)",4.0,1002757001,10
+1014,474,4801,family,"(474, 4801)",4.0,1002756963,7
+1015,474,4808,remake,"(474, 4808)",2.0,1047043601,10
+1016,474,4809,"Nuclear disaster, union","(474, 4809)",4.0,1137367805,10
+1017,474,4812,"NASA, space","(474, 4812)",2.0,1002757164,4
+1018,474,4823,wedding,"(474, 4823)",4.0,1002756838,10
+1019,474,4835,Loretta Lynn,"(474, 4835)",4.0,1087832123,10
+1020,474,4857,"Judaism, Tradition!","(474, 4857)",4.0,1002756946,10
+1021,474,4874,"aliens, psychiatrist","(474, 4874)",2.5,1087832613,4
+1022,474,4878,time travel,"(474, 4878)",4.5,1116256886,10
+1023,474,4881,Coen Brothers,"(474, 4881)",4.0,1046809230,10
+1024,474,4896,"Magic, Wizards","(474, 4896)",4.5,1081177303,10
+1025,474,4902,ghosts,"(474, 4902)",4.0,1137367839,10
+1026,474,4920,psychology,"(474, 4920)",4.0,1007320649,10
+1027,474,4963,heist,"(474, 4963)",4.0,1046871225,10
+1028,474,4969,In Netflix queue,"(474, 4969)",3.5,1181348156,10
+1029,474,4970,"nightclub, singers","(474, 4970)",4.0,1061384234,10
+1030,474,4973,whimsical,"(474, 4973)",5.0,1046811889,10
+1031,474,4979,new york,"(474, 4979)",4.0,1129579371,10
+1032,474,4980,time travel,"(474, 4980)",4.0,1013367485,10
+1033,474,4993,Tolkein,"(474, 4993)",5.0,1013367179,10
+1034,474,4998,racism,"(474, 4998)",3.5,1139102575,10
+1035,474,5008,"Agatha Christie, court","(474, 5008)",4.0,1061297547,10
+1036,474,5012,"cross dressing, Judaism","(474, 5012)",4.0,1100120007,10
+1037,474,5015,race,"(474, 5015)",4.0,1046809230,10
+1038,474,5034,Ghost,"(474, 5034)",5.0,1013367293,10
+1039,474,5064,"Dumas, revenge","(474, 5064)",4.0,1100291927,10
+1040,474,5114,movie business,"(474, 5114)",4.0,1063110654,10
+1041,474,5135,India,"(474, 5135)",4.0,1046811786,10
+1042,474,5213,religion,"(474, 5213)",1.5,1089387504,10
+1043,474,5224,In Netflix queue,"(474, 5224)",4.0,1201833144,10
+1044,474,5238,In Netflix queue,"(474, 5238)",3.5,1165540071,10
+1045,474,5266,crime,"(474, 5266)",4.0,1069684884,10
+1046,474,5291,"In Netflix queue, samurai","(474, 5291)",4.0,1165539866,10
+1047,474,5294,religion,"(474, 5294)",4.0,1089386180,10
+1048,474,5316,World War II,"(474, 5316)",2.5,1057582021,10
+1049,474,5349,superhero,"(474, 5349)",4.5,1100291637,9
+1050,474,5353,blind,"(474, 5353)",3.0,1046887386,10
+1051,474,5377,Nick Hornby,"(474, 5377)",5.0,1087831477,10
+1052,474,5379,"anti-Semitism, Judaism","(474, 5379)",4.5,1053021147,10
+1053,474,5398,boxing,"(474, 5398)",4.0,1080055004,10
+1054,474,5404,books,"(474, 5404)",4.0,1132423144,10
+1055,474,5445,future,"(474, 5445)",4.5,1053021105,10
+1056,474,5446,Australia,"(474, 5446)",4.5,1087831859,10
+1057,474,5450,"sisterhood, women","(474, 5450)",4.0,1046870757,10
+1058,474,5451,"disability, mental illness","(474, 5451)",2.5,1089387222,10
+1059,474,5470,Oscar Wilde,"(474, 5470)",4.5,1053020964,10
+1060,474,5475,In Netflix queue,"(474, 5475)",3.5,1201833285,10
+1061,474,5483,movie business,"(474, 5483)",4.5,1062075832,10
+1062,474,5502,aliens,"(474, 5502)",4.5,1081177369,4
+1063,474,5505,"adultery, younger men","(474, 5505)",4.5,1100119974,10
+1064,474,5527,"AS Byatt, books","(474, 5527)",4.0,1046809547,10
+1065,474,5528,"photography, psychopaths","(474, 5528)",4.0,1089386191,10
+1066,474,5548,homeless,"(474, 5548)",2.0,1046887698,10
+1067,474,5577,adolescence,"(474, 5577)",4.0,1046809495,10
+1068,474,5601,Animal movie,"(474, 5601)",4.0,1073917632,10
+1069,474,5603,"crime, heist","(474, 5603)",4.0,1108868174,10
+1070,474,5618,anime,"(474, 5618)",4.5,1081177323,10
+1071,474,5629,Bible,"(474, 5629)",2.0,1061580524,10
+1072,474,5630,Hannibal Lecter,"(474, 5630)",3.5,1053021641,10
+1073,474,5633,bombs,"(474, 5633)",4.0,1100119674,10
+1074,474,5644,"baseball, Lou Gehrig","(474, 5644)",4.0,1063631056,10
+1075,474,5669,violence in america,"(474, 5669)",4.0,1089386173,6
+1076,474,5673,pudding,"(474, 5673)",4.5,1135721136,10
+1077,474,5682,Holocaust,"(474, 5682)",4.0,1048279742,10
+1078,474,5685,Girl Power,"(474, 5685)",4.5,1053021154,10
+1079,474,5690,"made me cry, orphans","(474, 5690)",4.5,1124123473,10
+1080,474,5747,World War I,"(474, 5747)",4.5,1086613194,10
+1081,474,5791,art,"(474, 5791)",4.0,1055769604,10
+1082,474,5792,dating,"(474, 5792)",2.5,1089387509,10
+1083,474,5802,teenagers,"(474, 5802)",4.0,1093142477,10
+1084,474,5812,salute to Douglas Sirk,"(474, 5812)",4.5,1087831483,10
+1085,474,5816,"Magic, Wizards","(474, 5816)",4.5,1053021098,10
+1086,474,5820,music business,"(474, 5820)",4.0,1109686537,10
+1087,474,5875,short films,"(474, 5875)",2.5,1055172893,10
+1088,474,5876,Graham Greene,"(474, 5876)",4.0,1059658500,10
+1089,474,5878,coma,"(474, 5878)",4.0,1054557451,10
+1090,474,5899,Africa,"(474, 5899)",3.0,1137442523,10
+1091,474,5952,Tolkein,"(474, 5952)",5.0,1046809381,10
+1092,474,5954,"crime, nightclub","(474, 5954)",4.0,1087831597,10
+1093,474,5971,anime,"(474, 5971)",4.0,1104847589,10
+1094,474,5989,crime,"(474, 5989)",4.0,1087831605,10
+1095,474,5991,"court, jazz, murder","(474, 5991)",4.0,1061831865,10
+1096,474,5994,Dickens,"(474, 5994)",4.0,1130961748,10
+1097,474,5995,Holocaust,"(474, 5995)",4.5,1054300218,10
+1098,474,6002,"drugs, planes, widows/widowers","(474, 6002)",3.5,1089387206,6
+1099,474,6003,television,"(474, 6003)",3.5,1087831997,10
+1100,474,6016,"crime, photography, violence","(474, 6016)",4.0,1100119665,6
+1101,474,6020,class,"(474, 6020)",3.5,1100292449,10
+1102,474,6031,"motherhood, race","(474, 6031)",4.0,1123505014,10
+1103,474,6041,In Netflix queue,"(474, 6041)",4.0,1181348253,10
+1104,474,6063,doll,"(474, 6063)",2.5,1090873646,10
+1105,474,6090,ghosts,"(474, 6090)",3.5,1089387203,10
+1106,474,6101,"Chile, politics, South America","(474, 6101)",4.0,1137900960,10
+1107,474,6104,spoof,"(474, 6104)",4.0,1048709307,10
+1108,474,6156,England,"(474, 6156)",3.5,1053021419,10
+1109,474,6159,adolescence,"(474, 6159)",3.5,1061688936,10
+1110,474,6163,obsession,"(474, 6163)",4.5,1100120048,10
+1111,474,6170,horses,"(474, 6170)",3.5,1087831885,10
+1112,474,6178,"blind, blindness, race","(474, 6178)",4.0,1077028739,10
+1113,474,6181,"Civil War, Stephen Crane","(474, 6181)",4.0,1098104447,10
+1114,474,6183,"Day and Hudson, sexuality","(474, 6183)",4.0,1061160987,10
+1115,474,6195,"books, Stones of Summer","(474, 6195)",4.0,1138498639,10
+1116,474,6197,mental illness,"(474, 6197)",3.5,1059745050,10
+1117,474,6201,England,"(474, 6201)",5.0,1100119681,10
+1118,474,6216,World War II,"(474, 6216)",3.5,1087831912,10
+1119,474,6218,soccer,"(474, 6218)",4.0,1065446118,10
+1120,474,6228,In Netflix queue,"(474, 6228)",4.0,1201833268,10
+1121,474,6232,"animal movie, lions","(474, 6232)",4.0,1100292003,10
+1122,474,6235,"Holocaust, World War II","(474, 6235)",3.5,1081177581,10
+1123,474,6238,immigrants,"(474, 6238)",3.5,1089387186,10
+1124,474,6242,television,"(474, 6242)",3.5,1081177719,10
+1125,474,6244,In Netflix queue,"(474, 6244)",3.0,1165539873,10
+1126,474,6245,prostitution,"(474, 6245)",3.5,1108868064,10
+1127,474,6254,screwball,"(474, 6254)",4.5,1091795922,10
+1128,474,6268,adolescence,"(474, 6268)",3.5,1062387773,10
+1129,474,6269,Big Brothers,"(474, 6269)",4.5,1064007586,10
+1130,474,6273,L.A.,"(474, 6273)",3.5,1137521015,10
+1131,474,6281,crime,"(474, 6281)",3.5,1058207172,10
+1132,474,6286,amnesia,"(474, 6286)",4.0,1081177442,10
+1133,474,6288,gangs,"(474, 6288)",3.5,1066136312,10
+1134,474,6289,Titanic,"(474, 6289)",3.5,1124370410,10
+1135,474,6291,prostitution,"(474, 6291)",4.0,1124651703,10
+1136,474,6296,mockumentary,"(474, 6296)",4.0,1065446100,10
+1137,474,6297,children,"(474, 6297)",3.5,1087831902,7
+1138,474,6299,birds,"(474, 6299)",3.5,1117827663,10
+1139,474,6305,Ray Bradbury,"(474, 6305)",4.5,1100291665,10
+1140,474,6308,lawyers,"(474, 6308)",2.0,1049825634,10
+1141,474,6327,"1970s, movies","(474, 6327)",3.5,1138486464,10
+1142,474,6331,spelling bee,"(474, 6331)",4.0,1075129585,10
+1143,474,6333,"Jean Grey, Magneto, Rogue, superhero, Wolverine","(474, 6333)",5.0,1100119699,9
+1144,474,6334,teachers,"(474, 6334)",4.0,1068472806,10
+1145,474,6337,gambling,"(474, 6337)",3.5,1068663398,10
+1146,474,6339,trains,"(474, 6339)",3.5,1071496055,10
+1147,474,6341,art,"(474, 6341)",3.5,1089386545,10
+1148,474,6350,anime,"(474, 6350)",4.0,1064786322,10
+1149,474,6367,retro,"(474, 6367)",4.0,1100292008,10
+1150,474,6368,movies,"(474, 6368)",3.5,1126038212,10
+1151,474,6373,religion,"(474, 6373)",2.5,1074261858,10
+1152,474,6377,"Disney, fish","(474, 6377)",4.0,1070397403,7
+1153,474,6378,heist,"(474, 6378)",3.5,1070286880,10
+1154,474,6380,child abuse,"(474, 6380)",4.5,1090873529,10
+1155,474,6385,Girl Power,"(474, 6385)",5.0,1071066753,10
+1156,474,6390,Ninotchka remake,"(474, 6390)",3.5,1064172069,10
+1157,474,6400,crime,"(474, 6400)",3.5,1126533571,10
+1158,474,6407,"Olympics, Tokyo","(474, 6407)",2.0,1089387365,10
+1159,474,6422,Civil War,"(474, 6422)",4.0,1062387935,10
+1160,474,6440,movie business,"(474, 6440)",3.5,1122395759,10
+1161,474,6454,Nazis,"(474, 6454)",3.5,1055190162,10
+1162,474,6466,In Netflix queue,"(474, 6466)",4.5,1165540065,10
+1163,474,6502,zombies,"(474, 6502)",4.5,1090873556,10
+1164,474,6515,fugitive,"(474, 6515)",4.5,1111412832,10
+1165,474,6535,politics,"(474, 6535)",2.0,1092661145,10
+1166,474,6536,swashbuckler,"(474, 6536)",3.5,1071842775,10
+1167,474,6539,swashbuckler,"(474, 6539)",3.5,1075129578,10
+1168,474,6545,Dodie Smith,"(474, 6545)",4.5,1073508736,10
+1169,474,6547,flood,"(474, 6547)",2.5,1089387216,10
+1170,474,6552,immigration,"(474, 6552)",4.0,1080568439,10
+1171,474,6565,horses,"(474, 6565)",3.5,1077028704,10
+1172,474,6579,Japan,"(474, 6579)",3.5,1097601404,10
+1173,474,6591,religion,"(474, 6591)",4.0,1080568446,10
+1174,474,6592,marriage,"(474, 6592)",4.0,1075729870,10
+1175,474,6603,Othello,"(474, 6603)",2.5,1087832522,10
+1176,474,6609,Bible,"(474, 6609)",3.5,1107784415,10
+1177,474,6620,cancer,"(474, 6620)",4.5,1075989401,10
+1178,474,6636,road trip,"(474, 6636)",3.5,1100292093,10
+1179,474,6639,blindness,"(474, 6639)",3.5,1087831871,10
+1180,474,6650,"family, multiple roles, murder","(474, 6650)",4.0,1118006516,7
+1181,474,6660,ballet,"(474, 6660)",3.5,1089386579,10
+1182,474,6662,Clousseau,"(474, 6662)",2.5,1070286905,10
+1183,474,6667,FBI,"(474, 6667)",3.5,1118840574,10
+1184,474,6669,terminal illness,"(474, 6669)",4.0,1117827654,10
+1185,474,6708,"con men, fatherhood","(474, 6708)",3.5,1110813908,10
+1186,474,6710,vertriloquism,"(474, 6710)",3.5,1128098746,10
+1187,474,6711,Japan,"(474, 6711)",3.5,1087832050,10
+1188,474,6713,In Netflix queue,"(474, 6713)",3.5,1181348366,10
+1189,474,6724,In Netflix queue,"(474, 6724)",3.5,1181348314,10
+1190,474,6732,matchmaker,"(474, 6732)",2.5,1062505923,10
+1191,474,6744,vampire,"(474, 6744)",2.5,1062387694,10
+1192,474,6753,Animal movie,"(474, 6753)",3.5,1076347368,10
+1193,474,6768,religion,"(474, 6768)",4.0,1102341187,10
+1194,474,6770,"adultery, terminal illness","(474, 6770)",3.5,1126038277,10
+1195,474,6773,biking,"(474, 6773)",3.5,1100291688,10
+1196,474,6776,India,"(474, 6776)",4.5,1064171896,10
+1197,474,6785,Lonesome Polecat,"(474, 6785)",4.5,1100291681,10
+1198,474,6787,"journalism, Watergate","(474, 6787)",4.0,1064171862,10
+1199,474,6788,pregnancy,"(474, 6788)",2.0,1064171865,10
+1200,474,6791,Food,"(474, 6791)",5.0,1064171871,10
+1201,474,6807,british comedy,"(474, 6807)",3.5,1129579428,1
+1202,474,6810,domestic violence,"(474, 6810)",3.5,1089386591,6
+1203,474,6820,werewolf,"(474, 6820)",4.0,1064841948,10
+1204,474,6832,amnesia,"(474, 6832)",3.5,1089386587,10
+1205,474,6852,"black and white, Capote, crime, death penalty, murder","(474, 6852)",3.5,1096470452,10
+1206,474,6856,biopic,"(474, 6856)",4.0,1064841971,10
+1207,474,6863,school,"(474, 6863)",3.5,1078495443,10
+1208,474,6867,trains,"(474, 6867)",4.0,1087490821,10
+1209,474,6870,"child abuse, kidnapping","(474, 6870)",3.5,1078755246,10
+1210,474,6874,"martial arts, revenge","(474, 6874)",4.0,1082256514,10
+1211,474,6881,Thanksgiving,"(474, 6881)",4.5,1100291676,10
+1212,474,6890,"adolescence, violence in america","(474, 6890)",4.0,1084798816,6
+1213,474,6909,transplants,"(474, 6909)",4.0,1098104416,10
+1214,474,6912,Rita Hayworth can dance!,"(474, 6912)",3.5,1110202926,10
+1215,474,6918,India,"(474, 6918)",4.0,1119012499,10
+1216,474,6932,journalism,"(474, 6932)",4.5,1080568429,10
+1217,474,6936,christmas,"(474, 6936)",4.0,1100698379,10
+1218,474,6944,"remake, wedding","(474, 6944)",2.0,1069084016,10
+1219,474,6948,"music business, rap","(474, 6948)",4.0,1110202908,10
+1220,474,6963,Amish,"(474, 6963)",4.5,1070286826,10
+1221,474,6970,Hepburn and Tracy,"(474, 6970)",3.5,1139941344,10
+1222,474,6979,Cold War,"(474, 6979)",4.0,1070286810,10
+1223,474,6981,religion,"(474, 6981)",4.0,1095773445,10
+1224,474,6984,Dickens,"(474, 6984)",4.0,1087827048,10
+1225,474,6985,saint,"(474, 6985)",4.5,1094562965,10
+1226,474,6993,family,"(474, 6993)",4.0,1083589288,7
+1227,474,7013,good and evil,"(474, 7013)",4.5,1070286782,10
+1228,474,7018,"court, Scott Turow","(474, 7018)",2.5,1070286749,10
+1229,474,7049,Astaire and Rogers,"(474, 7049)",3.0,1070286678,10
+1230,474,7050,Astaire and Rogers,"(474, 7050)",3.5,1070286680,10
+1231,474,7053,Astaire and Rogers,"(474, 7053)",4.0,1070286716,10
+1232,474,7055,Astaire and Rogers,"(474, 7055)",4.0,1129579320,10
+1233,474,7059,horses,"(474, 7059)",4.0,1070286701,10
+1234,474,7061,terminal illness,"(474, 7061)",4.0,1099923507,10
+1235,474,7062,"birds, prison","(474, 7062)",4.0,1083589271,10
+1236,474,7069,"In Netflix queue, Shakespeare","(474, 7069)",3.5,1181347988,10
+1237,474,7070,cattle drive,"(474, 7070)",4.0,1100962975,10
+1238,474,7073,Clousseau,"(474, 7073)",2.5,1091124339,10
+1239,474,7079,disability,"(474, 7079)",2.5,1089063250,10
+1240,474,7086,George Bernard Shaw,"(474, 7086)",3.5,1238350378,10
+1241,474,7087,E.M. Forster,"(474, 7087)",4.0,1110202899,10
+1242,474,7090,martial arts,"(474, 7090)",4.0,1105624492,10
+1243,474,7121,Hepburn and Tracy,"(474, 7121)",5.0,1070286605,10
+1244,474,7132,"Marx brothers, opera","(474, 7132)",3.5,1138039740,10
+1245,474,7139,immigrants,"(474, 7139)",4.0,1085403459,10
+1246,474,7141,In Netflix queue,"(474, 7141)",4.0,1165539947,10
+1247,474,7153,Tolkein,"(474, 7153)",5.0,1072654131,10
+1248,474,7156,Vietnam,"(474, 7156)",4.0,1085151435,10
+1249,474,7158,real estate,"(474, 7158)",4.5,1081172954,10
+1250,474,7160,serial killer,"(474, 7160)",4.0,1086369937,10
+1251,474,7162,Civil War,"(474, 7162)",4.0,1088599323,10
+1252,474,7190,Charlotte Bronte,"(474, 7190)",3.5,1140047474,10
+1253,474,7212,"cross dressing, men in drag","(474, 7212)",4.0,1073255475,10
+1254,474,7217,amnesia,"(474, 7217)",4.0,1137521618,10
+1255,474,7219,truckers,"(474, 7219)",4.0,1093142418,10
+1256,474,7234,circus,"(474, 7234)",4.5,1111412815,10
+1257,474,7256,mountain climbing,"(474, 7256)",4.0,1087827016,10
+1258,474,7285,adolescence,"(474, 7285)",4.0,1089386914,10
+1259,474,7301,"priest, religion","(474, 7301)",3.5,1137521414,10
+1260,474,7318,religion,"(474, 7318)",4.0,1081528654,10
+1261,474,7323,Cold War,"(474, 7323)",4.0,1092315860,10
+1262,474,7361,memory,"(474, 7361)",4.5,1080568420,10
+1263,474,7371,Grace,"(474, 7371)",4.5,1093524775,10
+1264,474,7382,"adolescence, crime","(474, 7382)",4.0,1123721665,10
+1265,474,7438,revenge,"(474, 7438)",4.5,1100291712,10
+1266,474,7440,Holocaust,"(474, 7440)",4.0,1142279167,10
+1267,474,7451,High School,"(474, 7451)",4.5,1100291715,10
+1268,474,7479,World War II,"(474, 7479)",4.0,1083589595,10
+1269,474,7493,multiple personalities,"(474, 7493)",4.0,1083589553,10
+1270,474,7572,cancer,"(474, 7572)",4.5,1132173402,10
+1271,474,7584,"Hepburn and Tracy, marriage","(474, 7584)",4.0,1126708309,10
+1272,474,7614,Rogers and Hammerstein,"(474, 7614)",4.0,1083675371,10
+1273,474,7618,"biopic, In Netflix queue","(474, 7618)",3.5,1145125822,10
+1274,474,7619,"blindness, deaf","(474, 7619)",4.0,1086016648,10
+1275,474,7646,Stephen King,"(474, 7646)",2.0,1089387363,10
+1276,474,7649,space station,"(474, 7649)",4.0,1119877154,4
+1277,474,7700,In Netflix queue,"(474, 7700)",4.0,1201833260,10
+1278,474,7705,"Hepburn and Tracy, sports","(474, 7705)",4.0,1137521632,10
+1279,474,7713,sexuality,"(474, 7713)",4.0,1100292118,10
+1280,474,7714,King Arthur,"(474, 7714)",4.0,1083701611,10
+1281,474,7728,adultery,"(474, 7728)",4.0,1083765473,10
+1282,474,7766,MacBeth,"(474, 7766)",4.0,1083761520,10
+1283,474,7789,terrorism,"(474, 7789)",4.0,1099060001,10
+1284,474,7831,Nick and Nora Charles,"(474, 7831)",3.5,1144111831,10
+1285,474,7832,Nick and Nora Charles,"(474, 7832)",3.5,1144882753,10
+1286,474,7833,Nick and Nora Charles,"(474, 7833)",3.5,1144882783,10
+1287,474,7834,Nick and Nora Charles,"(474, 7834)",4.0,1144882766,10
+1288,474,7835,Nick and Nora Charles,"(474, 7835)",3.5,1144882786,10
+1289,474,7932,"Amtrak, Homeless, independent, New York, Sundance award winner, Train","(474, 7932)",4.0,1137271158,10
+1290,474,7934,psychology,"(474, 7934)",4.0,1129579425,10
+1291,474,7981,police,"(474, 7981)",4.0,1107193601,10
+1292,474,7983,show business,"(474, 7983)",4.0,1135824491,10
+1293,474,8011,politics,"(474, 8011)",4.0,1143998527,10
+1294,474,8019,remade,"(474, 8019)",4.0,1132173380,10
+1295,474,8094,In Netflix queue,"(474, 8094)",3.5,1139102246,10
+1296,474,8153,Van Gogh,"(474, 8153)",2.5,1084884338,10
+1297,474,8167,swashbuckler,"(474, 8167)",4.0,1093267599,10
+1298,474,8191,Anne Boleyn,"(474, 8191)",4.0,1109599579,10
+1299,474,8207,assassination,"(474, 8207)",4.0,1109039798,10
+1300,474,8228,heist,"(474, 8228)",4.0,1085403562,10
+1301,474,8235,Clock,"(474, 8235)",5.0,1100119709,10
+1302,474,8266,Prince,"(474, 8266)",2.5,1085489071,10
+1303,474,8275,In Netflix queue,"(474, 8275)",3.5,1181348018,10
+1304,474,8337,military,"(474, 8337)",4.0,1113829306,10
+1305,474,8338,"convent, religion","(474, 8338)",4.0,1112282473,10
+1306,474,8341,Dickens,"(474, 8341)",3.5,1138486443,10
+1307,474,8360,ogres,"(474, 8360)",4.0,1099923515,10
+1308,474,8366,"pregnancy, religion","(474, 8366)",4.0,1097508546,10
+1309,474,8368,"Magic, Wizards","(474, 8368)",5.0,1116256984,10
+1310,474,8375,politics,"(474, 8375)",2.5,1106503362,10
+1311,474,8376,high school,"(474, 8376)",4.0,1109599599,10
+1312,474,8382,death,"(474, 8382)",2.5,1086016467,10
+1313,474,8424,divorce,"(474, 8424)",4.0,1100292121,10
+1314,474,8446,World War II,"(474, 8446)",2.5,1087832464,10
+1315,474,8463,deafness,"(474, 8463)",4.0,1086103054,10
+1316,474,8464,"food, McDonalds","(474, 8464)",4.0,1100292150,10
+1317,474,8507,circus,"(474, 8507)",4.0,1086613169,10
+1318,474,8530,Ireland,"(474, 8530)",4.0,1123721652,10
+1319,474,8607,In Netflix queue,"(474, 8607)",4.0,1181347995,10
+1320,474,8609,In Netflix queue,"(474, 8609)",3.5,1201833138,10
+1321,474,8622,"politics, terrorism","(474, 8622)",4.0,1097508566,10
+1322,474,8636,Doc Ock,"(474, 8636)",5.0,1092012066,10
+1323,474,8638,generation X,"(474, 8638)",4.0,1100526635,10
+1324,474,8645,"drugs, immigrants","(474, 8645)",4.0,1103392567,6
+1325,474,8695,court,"(474, 8695)",2.5,1089638396,10
+1326,474,8714,Cole Porter,"(474, 8714)",2.5,1089638381,10
+1327,474,8754,Oscar (Best Actress),"(474, 8754)",4.0,1189991007,10
+1328,474,8784,psychology,"(474, 8784)",4.0,1108868034,10
+1329,474,8796,Rome,"(474, 8796)",2.5,1090326685,10
+1330,474,8809,Australia,"(474, 8809)",4.0,1127143337,10
+1331,474,8827,Stand Up,"(474, 8827)",4.0,1092012139,10
+1332,474,8874,zombies,"(474, 8874)",4.0,1108734618,10
+1333,474,8875,"alcoholism, marriage","(474, 8875)",4.0,1095092244,10
+1334,474,8879,"Agatha Christie, Oscar (Best Supporting Actress), train","(474, 8879)",3.0,1145755122,10
+1335,474,8880,disability,"(474, 8880)",4.0,1095092238,10
+1336,474,8914,time travel,"(474, 8914)",4.0,1114175093,10
+1337,474,8920,Oscar (Best Actress),"(474, 8920)",3.5,1238350317,10
+1338,474,8938,"parenthood, psychology","(474, 8938)",4.0,1116517476,10
+1339,474,8943,stage,"(474, 8943)",2.5,1112208217,10
+1340,474,8949,wine,"(474, 8949)",4.0,1112965884,10
+1341,474,8950,psychology,"(474, 8950)",4.0,1118407928,10
+1342,474,8951,abortion,"(474, 8951)",4.0,1112619796,10
+1343,474,8958,biopic,"(474, 8958)",4.0,1113172332,10
+1344,474,8961,"Disney, superhero","(474, 8961)",4.0,1111151849,7
+1345,474,8970,Peter Pan,"(474, 8970)",4.0,1112018563,10
+1346,474,8979,Hearst,"(474, 8979)",4.0,1137521438,10
+1347,474,8983,martial arts,"(474, 8983)",4.0,1114175077,10
+1348,474,9018,journalism,"(474, 9018)",4.0,1101737052,10
+1349,474,25753,gold,"(474, 25753)",4.0,1139940944,10
+1350,474,25825,revenge,"(474, 25825)",4.5,1137008654,10
+1351,474,25841,show business,"(474, 25841)",4.0,1112298909,10
+1352,474,25865,In Netflix queue,"(474, 25865)",4.0,1201833271,10
+1353,474,25886,made me cry,"(474, 25886)",4.5,1112304690,10
+1354,474,25940,mirrors,"(474, 25940)",3.5,1137521287,10
+1355,474,25952,In Netflix queue,"(474, 25952)",4.0,1201833252,10
+1356,474,26151,donkey,"(474, 26151)",3.5,1145749882,10
+1357,474,26662,anime,"(474, 26662)",4.0,1133730256,10
+1358,474,26776,In Netflix queue,"(474, 26776)",3.5,1181347968,10
+1359,474,27731,In Netflix queue,"(474, 27731)",4.0,1181348000,10
+1360,474,27741,In Netflix queue,"(474, 27741)",3.5,1181348087,10
+1361,474,27790,"religion, saints","(474, 27790)",4.0,1131475327,10
+1362,474,27820,"Animal movie, camels","(474, 27820)",4.0,1108389737,10
+1363,474,27834,fatherhood,"(474, 27834)",4.0,1118006384,10
+1364,474,27838,revenge,"(474, 27838)",4.5,1109360337,10
+1365,474,27878,India,"(474, 27878)",4.0,1128097747,10
+1366,474,27882,surfing,"(474, 27882)",4.0,1139939397,10
+1367,474,30707,boxing,"(474, 30707)",4.0,1107784398,10
+1368,474,30749,genocide,"(474, 30749)",4.5,1113769578,10
+1369,474,30793,roald dahl,"(474, 30793)",4.0,1132423177,10
+1370,474,30812,"biopic, Howard Hughes, movie business","(474, 30812)",4.0,1117025726,10
+1371,474,30820,child abuse,"(474, 30820)",4.5,1113769507,10
+1372,474,30822,busniess,"(474, 30822)",4.5,1119128254,10
+1373,474,30850,Shakespeare,"(474, 30850)",4.5,1116256930,10
+1374,474,31030,motherhood,"(474, 31030)",4.0,1107444837,10
+1375,474,31437,orphans,"(474, 31437)",4.0,1127143189,10
+1376,474,31658,"06 Oscar Nominated Best Movie - Animation, In Netflix queue","(474, 31658)",4.0,1145451850,7
+1377,474,31903,marriage,"(474, 31903)",4.0,1130961734,10
+1378,474,32582,"birds, parrots","(474, 32582)",4.5,1138804192,10
+1379,474,32584,fatherhood,"(474, 32584)",4.0,1124710477,10
+1380,474,33154,"business, money, scandal","(474, 33154)",3.5,1137766098,10
+1381,474,33166,racism,"(474, 33166)",4.0,1126533581,10
+1382,474,33493,"space, space opera","(474, 33493)",4.5,1118006457,4
+1383,474,33660,boxing,"(474, 33660)",4.0,1140208911,10
+1384,474,34271,hip hop,"(474, 34271)",3.5,1141848736,10
+1385,474,34359,pregnancy,"(474, 34359)",4.0,1122323286,10
+1386,474,34405,Firefly,"(474, 34405)",4.5,1128353652,10
+1387,474,34437,In Netflix queue,"(474, 34437)",4.0,1139693851,10
+1388,474,34528,pregnancy,"(474, 34528)",4.0,1139693884,10
+1389,474,34542,"Animal movie, bears","(474, 34542)",4.0,1135958409,10
+1390,474,35015,"Animal movie, In Netflix queue","(474, 35015)",3.5,1150143118,10
+1391,474,36517,"Africa, business, politics","(474, 36517)",4.0,1139234924,10
+1392,474,36527,mathematics,"(474, 36527)",3.5,1140101859,10
+1393,474,36535,In Netflix queue,"(474, 36535)",3.5,1165540020,10
+1394,474,37729,06 Oscar Nominated Best Movie - Animation,"(474, 37729)",4.0,1139059912,7
+1395,474,37733,In Netflix queue,"(474, 37733)",4.0,1145125851,10
+1396,474,37736,Dickens,"(474, 37736)",3.5,1139940649,10
+1397,474,37741,Truman Capote,"(474, 37741)",4.5,1142996159,10
+1398,474,38038,"06 Oscar Nominated Best Movie - Animation, Aardman","(474, 38038)",4.5,1139664180,7
+1399,474,38886,divorce,"(474, 38886)",4.0,1145451828,10
+1400,474,39234,"courtroom drama, In Netflix queue","(474, 39234)",4.0,1140576315,5
+1401,474,39292,"In Netflix queue, journalism, McCarthy hearings, Morrow","(474, 39292)",4.0,1145125435,10
+1402,474,40583,In Netflix queue,"(474, 40583)",3.5,1165540032,10
+1403,474,40629,In Netflix queue,"(474, 40629)",3.5,1144778236,10
+1404,474,40815,"Magic, Wizards","(474, 40815)",5.0,1133204269,10
+1405,474,40819,Johnny Cash,"(474, 40819)",4.0,1141848702,10
+1406,474,41566,C.S. Lewis,"(474, 41566)",4.5,1136167922,10
+1407,474,41997,In Netflix queue,"(474, 41997)",4.0,1147625054,10
+1408,474,42002,In Netflix queue,"(474, 42002)",4.0,1150143113,10
+1409,474,42740,In Netflix queue,"(474, 42740)",3.5,1165540081,10
+1410,477,32,"Brad Pitt, Bruce Willis, mindfuck, Post apocalyptic, post-apocalyptic, remake, time travel, twist ending","(477, 32)",4.5,1200939654,3
+1411,477,34,villain nonexistent or not needed for good story,"(477, 34)",4.0,1200939719,10
+1412,477,104,Adam Sandler,"(477, 104)",4.0,1200940046,10
+1413,477,216,"Adam Sandler, stop looking at me swan","(477, 216)",4.0,1200946408,10
+1414,477,318,Morgan Freeman,"(477, 318)",5.0,1200939396,10
+1415,477,541,"androids, artificial intelligence, atmospheric, cyberpunk, future, mindfuck, Philip K. Dick","(477, 541)",5.0,1201158878,10
+1416,477,589,Scifi masterpiece,"(477, 589)",5.0,1200939634,4
+1417,477,593,"disturbing, drama, gothic, psychology, suspense","(477, 593)",5.0,1200939621,3
+1418,477,733,"Michael Bay, terrorism","(477, 733)",4.0,1241938832,10
+1419,477,750,"black comedy, dark comedy, satire","(477, 750)",5.0,1200939347,1
+1420,477,832,"GIVE ME BACK MY SON!, It was melodramatic and kind of dumb, Mel Gibson","(477, 832)",3.0,1269832640,5
+1421,477,903,"Alfred Hitchcock, Atmospheric, imdb top 250, James Stewart","(477, 903)",3.5,1200940556,10
+1422,477,904,"imdb top 250, James Stewart, mystery, photographer, photography","(477, 904)",3.5,1200939390,10
+1423,477,908,"Alfred Hitchcock, imdb top 250","(477, 908)",4.0,1200941111,10
+1424,477,922,"eerie, movie business","(477, 922)",4.5,1245030056,10
+1425,477,1089,"humorous, neo-noir, Quentin Tarantino, religion, Tarantino","(477, 1089)",4.0,1200939949,3
+1426,477,1196,"classic, George Lucas, Harrison Ford, music, original plot, sci-fi, sequel","(477, 1196)",5.0,1200939665,4
+1427,477,1219,"Alfred Hitchcock, black and white, imdb top 250, remade","(477, 1219)",4.0,1200940546,10
+1428,477,1222,anti-war,"(477, 1222)",5.0,1200940569,10
+1429,477,1274,"animation, anime, visually stunning","(477, 1274)",5.0,1200943136,7
+1430,477,2393,"cameo:Whoopi Goldberg, space opera, Star Trek","(477, 2393)",3.5,1242278841,4
+1431,477,2694,Adam Sandler,"(477, 2694)",4.0,1200941555,10
+1432,477,2761,animation,"(477, 2761)",4.0,1200940826,7
+1433,477,3000,"adventure, atmospheric, fantasy world, Studio Ghibli, surreal","(477, 3000)",5.0,1200940541,3
+1434,477,3527,"aliens, Arnold Schwarzenegger, dialogue, guns, Jesse Ventura, macho, sci-fi, scifi cult","(477, 3527)",4.0,1269832587,4
+1435,477,3994,"atmospheric, comics, father-son relationship, mindfuck, unique","(477, 3994)",5.0,1200941427,9
+1436,477,4226,"mystery, twist ending","(477, 4226)",4.0,1200939350,3
+1437,477,4454,"claymation, creativity, dystopia, free to download, imagination, no dialogue, social commentary","(477, 4454)",5.0,1245030211,10
+1438,477,4725,"mental hospital, psychology, suspense, Well Done","(477, 4725)",4.0,1252820187,3
+1439,477,4878,"dreamlike, hallucinatory, mental illness, psychology, social commentary, teen, thought-provoking","(477, 4878)",5.0,1200940609,10
+1440,477,5459,"crappy sequel, first was much better, sequel","(477, 5459)",3.0,1262795608,10
+1441,477,7361,"cult film, imagination, Jim Carrey, love, surreal","(477, 7361)",4.0,1200940259,10
+1442,477,7439,comic book,"(477, 7439)",3.0,1206218214,9
+1443,477,8783,"Atmospheric, good soundtrack, M. Night Shyamalan","(477, 8783)",4.5,1200941458,10
+1444,477,8961,"animation, Samuel L. Jackson","(477, 8961)",4.0,1200940137,7
+1445,477,41569,big budget,"(477, 41569)",4.0,1200941186,10
+1446,477,42422,love,"(477, 42422)",4.5,1252377754,10
+1447,477,45499,"Halle Berry, Hugh Jackman","(477, 45499)",3.5,1200940289,10
+1448,477,45730,"bad, disappointing, faerie tale, fairy tale, far fetched, M. Night Shyamalan, Paul Giamatti","(477, 45730)",3.0,1222057568,10
+1449,477,47610,"costume drama, Edward Norton, magic, Paul Giamatti","(477, 47610)",4.0,1200941561,5
+1450,477,52885,dreamlike,"(477, 52885)",4.5,1222664441,10
+1451,477,53468,zombies,"(477, 53468)",4.0,1254101367,10
+1452,477,54503,"friendship, high school, Michael Cera, nerds, self discovery, shenanigans, virginity","(477, 54503)",5.0,1200941052,10
+1453,477,55167,anime,"(477, 55167)",4.5,1241453902,10
+1454,477,56174,"alone in the world, apocalypse, based on a book, last man on earth, plot holes, Post apocalyptic, post-apocalyptic, religion, vampire","(477, 56174)",4.0,1200941094,10
+1455,477,56367,"Michael Cera, notable soundtrack, pregnancy, teenage pregnancy, witty","(477, 56367)",4.0,1226843648,10
+1456,477,57669,"black comedy, Colin Farrell, dark comedy, drugs, friendship, irreverent, Ralph Fiennes, stylized","(477, 57669)",5.0,1269832553,1
+1457,477,59141,movies about movies,"(477, 59141)",4.5,1241396097,10
+1458,477,60069,"last man on earth, love story, Post apocalyptic, social commentary","(477, 60069)",5.0,1214714005,10
+1459,477,61323,"Brad Pitt, Coen Bros, Coen Brothers, dark comedy, espionage, George Clooney, John Malkovich, satire, twists & turns, weird","(477, 61323)",4.5,1269832479,1
+1460,477,62336,"2D animation, cult film, stylish, surreal","(477, 62336)",5.0,1234853193,7
+1461,477,66934,"joss whedon, Nathan Fillion, Neil Patrick Harris, parody","(477, 66934)",5.0,1239576184,10
+1462,477,67087,"Andy Samberg, bromance, bromantic, comedy, Jaime Pressly, Jason Segel, masculinity, Paul Rudd","(477, 67087)",3.5,1269833849,1
+1463,477,68237,"2001-like, Sci-fi, solitude","(477, 68237)",4.5,1252898594,4
+1464,477,68319,"bad plot, comic book, hugh jackman, Ryan Reynolds, too many characters","(477, 68319)",3.5,1241938806,9
+1465,477,68358,"future, lack of development, lack of story, quick cuts, sci-fi, Simon Pegg, space, space travel, time travel","(477, 68358)",4.5,1242278357,4
+1466,477,68791,"artificial intelligence, bad acting, bad plot, bad script, Christian Bale, FIGHTING THE SYSTEM, franchise, new composer, post-apocalyptic, robots, sci-fi, sequel","(477, 68791)",4.0,1243401974,4
+1467,477,68945,Recap,"(477, 68945)",3.5,1246349053,10
+1468,477,69526,"bad plot, Michael Bay, needed more autobots, plot holes, ridiculous, Shia LaBeouf, stop using useless characters for filler","(477, 69526)",3.0,1246346140,10
+1469,477,69757,"artistic, Funny, humorous, inspiring, intelligent, quirky, romance, Zooey Deschanel","(477, 69757)",5.0,1279956110,1
+1470,477,70286,intelligent sci-fi,"(477, 70286)",4.5,1250476937,4
+1471,477,72224,bad humor,"(477, 72224)",3.5,1296891261,10
+1472,477,72998,"bad science, futuristic, graphic design, James Cameron, military, poor dialogue, sci-fi, superficial plot, unoriginal, white guilt","(477, 72998)",4.0,1262794395,4
+1473,477,79132,"dreamlike, surreal, visually appealing","(477, 79132)",4.5,1280608200,10
+1474,477,79702,"geeky, Michael Cera, stylized, video games","(477, 79702)",5.0,1282923839,10
+1475,477,82242,male nudity,"(477, 82242)",5.0,1293690475,10
+1476,487,112552,"passion, psychological, suspense","(487, 112552)",3.0,1428574489,3
+1477,506,112552,"jazz, music, tense","(506, 112552)",3.5,1424486897,10
+1478,509,80834,"adventure, animation, fantasy","(509, 80834)",3.5,1435992464,3
+1479,513,750,"purity of essence, Slim Pickens","(513, 750)",5.0,1159980351,10
+1480,513,6787,Deep Throat,"(513, 6787)",4.5,1159980754,10
+1481,520,3039,Dan Aykroyd,"(520, 3039)",5.0,1326608402,10
+1482,520,60516,enjoyable,"(520, 60516)",4.5,1326610757,10
+1483,533,356,"bubba gump shrimp, lieutenant dan, stupid is as stupid does","(533, 356)",5.0,1424753674,10
+1484,537,527,"based on a true story, biography, disturbing, holocaust","(537, 527)",1.0,1424142111,10
+1485,537,1721,romance,"(537, 1721)",3.0,1424141915,8
+1486,537,2329,"edward norton, emotional, politics","(537, 2329)",4.5,1424141439,10
+1487,537,2571,"philosophy, post apocalyptic","(537, 2571)",4.0,1424141086,10
+1488,537,5989,"cheating, intelligent, Leonardo DiCaprio, lies, smart, Tom Hanks, twists & turns","(537, 5989)",5.0,1424139594,3
+1489,537,8533,"memory loss, romance, sad","(537, 8533)",1.5,1424141947,8
+1490,537,55765,"corruption, Denzel Washington, mafia, organized crime","(537, 55765)",5.0,1424138156,6
+1491,537,58295,"heist, robbery, small time criminals","(537, 58295)",5.0,1424138297,10
+1492,537,69122,"casino, comedy, funny, hotel, Las Vegas","(537, 69122)",4.0,1424140089,1
+1493,537,69481,war,"(537, 69481)",3.5,1424144794,10
+1494,537,72998,"beautiful scenery, graphic design, music, politics, romance, thought-provoking, too long, visually stunning","(537, 72998)",5.0,1424140083,8
+1495,537,79132,"big budget, clever, complicated, dead wife, great soundtrack, heist, intellectual, mindfuck, philosophy, psychological, psychology, suspense, thought-provoking","(537, 79132)",5.0,1424140067,3
+1496,537,80906,"business, corruption, economics, investor corruption, politics, truth","(537, 80906)",5.0,1424461829,10
+1497,537,89745,"Captain America, silly, superhero, superhero team","(537, 89745)",1.5,1424140553,9
+1498,537,90439,"bank, big corporations, business, corruption, financial crisis, Kevin Spacey, realistic, suspense, Wall Street","(537, 90439)",5.0,1424138173,3
+1499,537,95067,interesting scenario,"(537, 95067)",3.0,1424140877,10
+1500,537,97304,"cia, politics, Thrilling","(537, 97304)",4.5,1424138371,10
+1501,537,99114,Soundtrack,"(537, 99114)",4.5,1424140403,10
+1502,537,104218,Adam Sandler,"(537, 104218)",3.5,1424317293,10
+1503,537,104841,"cliche characters, long shots, predictable, Simple, slow action, visually appealing","(537, 104841)",3.0,1424140760,3
+1504,537,105504,"hostage, ocean, suspense","(537, 105504)",5.0,1424141141,3
+1505,537,106782,"Stock Market, Wall Street","(537, 106782)",5.0,1424142673,10
+1506,567,1,fun,"(567, 1)",3.5,1525286001,10
+1507,567,101,"off-beat comedy, quirky","(567, 101)",3.0,1525287210,1
+1508,567,308,cynical,"(567, 308)",2.5,1525287779,10
+1509,567,356,"bittersweet, emotional, heartwarming, touching","(567, 356)",3.0,1525287534,10
+1510,567,541,"atmospheric, dreamlike, existentialism, philosophical","(567, 541)",3.5,1525286579,10
+1511,567,750,"black comedy, dark comedy, Quirky","(567, 750)",3.0,1525287719,1
+1512,567,1203,"claustrophobic, confrontational, earnest, good dialogue, great screenplay, gritty, Motivational, thought-provoking","(567, 1203)",4.5,1525283592,10
+1513,567,1237,"atmospheric, cerebral, existentialism, philosophical, reflective","(567, 1237)",3.5,1525286520,10
+1514,567,1260,"atmospheric, chilly, creepy, menacing, mental illness, oninous","(567, 1260)",4.0,1525285646,2
+1515,567,1653,"intelligent, thought-provoking","(567, 1653)",3.0,1525287107,10
+1516,567,1704,"heartwarming, inspirational","(567, 1704)",3.0,1525287317,10
+1517,567,1916,"avant-garde romantic comedy, elegiac, melancholy, quirky, wry","(567, 1916)",5.0,1525282174,1
+1518,567,1921,"artsy, atmospheric, cerebral, enigmatic, existentialism, hallucinatory, insanity, paranoia, paranoid, surreal, tense, visually appealing","(567, 1921)",3.0,1525287268,10
+1519,567,2138,"atmospheric, beautiful","(567, 2138)",4.5,1525283741,10
+1520,567,2324,"bittersweet, emotional, Heartwarming, poignant, sentimental, tear jerker, tearjerking","(567, 2324)",3.5,1525285783,10
+1521,567,2731,"emotional, gentle, heartwarming, lyrical, reflective","(567, 2731)",3.5,1525284802,10
+1522,567,3134,"downbeat, poignant","(567, 3134)",3.0,1525287625,10
+1523,567,3266,"black comedy, crazy, dark, dark comedy, dark humor, serial killer","(567, 3266)",5.0,1525282236,1
+1524,567,3424,great cinematography,"(567, 3424)",4.0,1525284084,10
+1525,567,3671,"dark humor, easygoing, silly","(567, 3671)",4.5,1525283186,10
+1526,567,3676,"art house, Atmospheric, creepy, cryptic, dark, disturbing, dreamlike, enigmatic, fucked up, gruesome, hallucinatory, Insane, paranoid, strange, surreal, weird","(567, 3676)",5.0,1525282299,2
+1527,567,3994,"atmospheric, somber","(567, 3994)",4.0,1525285491,10
+1528,567,4144,"atmospheric, Beautiful, bittersweet, dreamy, elegant, heartbreaking, intimate, loneliness, long takes, longing, melancholic, melancholy, moody, nocturnal, romantic, Unique, visually appealing, visually stunning","(567, 4144)",4.5,1525283516,8
+1529,567,4226,"cerebral, dreamlike","(567, 4226)",3.5,1525282023,10
+1530,567,4552,"""artsy"", atmospheric, gritty, hallucinatory, surreal, visually stunning","(567, 4552)",3.5,1525285862,10
+1531,567,4878,"atmospheric, cerebral, dreamlike, enigmatic, hallucinatory, mental illness, mindfuck, philosophy, psychological, quirky, surreal, thought-provoking, weird","(567, 4878)",3.5,1525282268,10
+1532,567,5673,"anger, awkward, bittersweet, hallucinatory, quirky, sad, surreal, symbolism, tense, unconventional, unique, wistful","(567, 5673)",3.5,1525282187,10
+1533,567,5690,"beautiful, downbeat, grim, poignant, tear jerker, tragedy, tragic","(567, 5690)",4.0,1525283784,10
+1534,567,6214,"dark, disturbing","(567, 6214)",3.0,1525283375,10
+1535,567,6291,"Depressing, melancholy, sad","(567, 6291)",3.0,1525287035,10
+1536,567,6377,heartwarming,"(567, 6377)",3.0,1525285046,10
+1537,567,6669,"meditative, philosophical, poignant, purposefulness","(567, 6669)",3.5,1525286207,10
+1538,567,6818,"atmospheric, bleak, disturbing, gritty, harsh","(567, 6818)",5.0,1525282316,10
+1539,567,7024,"bleak, confrontational, disturbing, harsh, haunting, inhumane, thought-provoking","(567, 7024)",4.0,1525283971,10
+1540,567,7361,"arthouse, artistic, atmospheric, beautiful, bittersweet, colourful, comedy, dreamlike, emotional, feel-good, happpiness, humane, insightful, intelligent, lovely, melancholy, mind-bending, philosophy, quirky, quirky romantic, romantic, surreal, surrealism, thought-provoking","(567, 7361)",5.0,1525282255,1
+1541,567,8335,heartbreaking,"(567, 8335)",3.5,1525285729,10
+1542,567,8477,post-apocalyptic,"(567, 8477)",5.0,1525282230,10
+1543,567,25771,"mindfuck, surreal, surrealism","(567, 25771)",5.0,1525282215,10
+1544,567,26717,"boring, psychedelic, symbolic","(567, 26717)",0.5,1525285883,10
+1545,567,27773,"bizarre, claustrophobic, depressing, disturbing, hallucinatory, paranoid, surreal, twisted","(567, 27773)",4.5,1525283295,3
+1546,567,30810,"heartwarming, off-beat comedy, quirky, trippy, visually appealing, whimsical","(567, 30810)",4.0,1525284026,1
+1547,567,40491,depression,"(567, 40491)",5.0,1525282197,10
+1548,567,45880,"cinematography, lyrical","(567, 45880)",3.0,1525287340,10
+1549,567,48394,"atmospheric, bittersweet, visually appealing","(567, 48394)",3.0,1525286819,10
+1550,567,48780,"atmospheric, enigmatic","(567, 48780)",3.5,1525286462,10
+1551,567,50872,"clever, inspirational","(567, 50872)",4.0,1525283874,10
+1552,567,56782,"atmospheric, cerebral, character study, gritty, intense, long shots, morality, visually appealing","(567, 56782)",5.0,1525282041,10
+1553,567,57502,"abstract, dark, psychedelic, surreal","(567, 57502)",4.0,1525285549,10
+1554,567,58301,"dark, dark humor, intelligent, thought-provoking","(567, 58301)",4.5,1525283351,10
+1555,567,58559,"dark, gritty","(567, 58559)",4.0,1525285588,10
+1556,567,63062,emotional,"(567, 63062)",3.5,1525286181,10
+1557,567,68954,"bittersweet, emotional, heartbreaking, touching","(567, 68954)",3.0,1525286751,10
+1558,567,71899,"bittersweet, black comedy, character study, dark comedy, friendship, loneliness, mental illness, philosophical, poignant, quirky, sad, sweet, touching","(567, 71899)",5.0,1525282287,1
+1559,567,74791,"surreal, whimsical","(567, 74791)",3.5,1525286106,10
+1560,567,79132,"cerebral, dreamlike, philosophy, thought-provoking","(567, 79132)",3.0,1525287376,10
+1561,567,80463,"good dialogue, loneliness, witty","(567, 80463)",3.5,1525286310,10
+1562,567,89745,"fun, great humor, visually appealing","(567, 89745)",4.0,1525285523,10
+1563,567,94959,quirky,"(567, 94959)",3.5,1525284813,10
+1564,567,95558,"Beautiful, emotional, poetic","(567, 95558)",3.0,1525287496,10
+1565,567,96079,"beautiful cinematography, beautifully filmed, cinematography","(567, 96079)",3.0,1525287359,10
+1566,567,99764,"moving, philosopical, surreal, weird","(567, 99764)",5.0,1525282224,10
+1567,567,99917,"artistic, artsy, atmospheric, Beautiful, dreamlike, existentialism","(567, 99917)",3.5,1525286640,10
+1568,567,104875,quirky,"(567, 104875)",3.5,1525285909,10
+1569,567,104944,"emotional, feel-good, heartwarming, mental illness, touching","(567, 104944)",3.5,1525285966,10
+1570,567,105504,"suspense, tense","(567, 105504)",3.0,1525286920,3
+1571,567,106766,"atmospheric, cinematography, depressing, funny","(567, 106766)",4.0,1525283911,1
+1572,567,107406,fatalistic,"(567, 107406)",3.0,1525286772,10
+1573,567,108932,"cheeky, clever, colorful, feel-good, fun, imaginative, quirky","(567, 108932)",4.5,1525283667,10
+1574,567,109487,"bad dialogue, philosophical issues, thought-provoking, visually appealing","(567, 109487)",3.0,1525287553,10
+1575,567,112421,"adorable, black comedy, Eccentric, introspection, mental illness, quirky","(567, 112421)",4.5,1525283411,1
+1576,567,112552,"inspirational, inspiring, intense","(567, 112552)",3.5,1525286265,10
+1577,567,112852,"funny, Great Visuals, humorous, unlikely hero","(567, 112852)",3.5,1525285306,1
+1578,567,113705,bittersweet,"(567, 113705)",3.5,1525286082,10
+1579,567,114627,"atmospheric, bizzare, eerie, symbolism","(567, 114627)",3.5,1525286614,10
+1580,567,116797,"inspirational, intelligent","(567, 116797)",3.0,1525286857,10
+1581,567,117877,"philosophical, trippy","(567, 117877)",3.0,1525287604,10
+1582,567,117887,heartwarming,"(567, 117887)",3.5,1525285929,10
+1583,567,119145,slick,"(567, 119145)",3.0,1525286707,10
+1584,567,122882,"beautiful, cinematography, visually appealing","(567, 122882)",4.0,1525283831,10
+1585,567,122912,"Dark, emotional, Sad, Visually appealing, Visually stunning","(567, 122912)",3.0,1525282047,10
+1586,567,122916,"awesome, humor, quirky, unconventional, white guilt","(567, 122916)",3.0,1525285052,10
+1587,567,122918,fun,"(567, 122918)",3.5,1525286124,10
+1588,567,122922,visually appealing,"(567, 122922)",3.0,1525287154,10
+1589,567,127298,"depressing, understated","(567, 127298)",3.5,1525286237,10
+1590,567,134130,smart,"(567, 134130)",3.0,1525287673,10
+1591,567,134170,"funny, ridiculous, silly","(567, 134170)",4.5,1525283474,1
+1592,567,138036,"slick, stylish","(567, 138036)",3.0,1525287186,10
+1593,567,139385,"cinematography, visually appealing, Visually Striking","(567, 139385)",3.0,1525287401,10
+1594,567,139644,"atmospheric, tension","(567, 139644)",3.5,1525286553,10
+1595,567,140174,"moving, touching","(567, 140174)",3.0,1525287476,10
+1596,567,141890,Moving,"(567, 141890)",3.0,1525286967,10
+1597,567,143367,"contemplative, philosophical, thought-provoking, tragic","(567, 143367)",4.5,1525283150,10
+1598,567,148626,"funny, interesting, Witty","(567, 148626)",3.0,1525287694,1
+1599,567,148881,"Existential, surreal","(567, 148881)",5.0,1525282206,10
+1600,567,152077,"creepy, suspense","(567, 152077)",3.0,1525287438,2
+1601,567,153070,nightmare,"(567, 153070)",3.5,1525282879,10
+1602,567,155288,"suspense, thought-provoking","(567, 155288)",3.5,1525286154,3
+1603,567,156605,"quirky, sweet, understated","(567, 156605)",4.5,1525283448,10
+1604,567,161634,intense,"(567, 161634)",3.0,1525287236,10
+1605,567,164179,"beautiful visuals, Cerebral, cinematography, good cinematography, smart, thought-provoking, visually appealing","(567, 164179)",4.0,1525284805,10
+1606,567,164909,"Bittersweet, visually appealing","(567, 164909)",3.0,1525287647,10
+1607,567,167746,"funny, heartwarming","(567, 167746)",3.5,1525285822,1
+1608,567,168252,"dark, emotional, gritty, heartbreaking, predictible plot","(567, 168252)",4.0,1525283936,10
+1609,567,170945,"paranoia, Suspenseful","(567, 170945)",3.5,1525286512,3
+1610,567,174055,"brilliant, inspiring, tense","(567, 174055)",3.5,1525285048,10
+1611,567,176371,"atmospheric, beautiful, cinematography, dark, dreamlike, existentialism, moody, philosophical","(567, 176371)",5.0,1525282063,10
+1612,567,176419,"allegorical, uncomfortable, unsettling","(567, 176419)",3.0,1525287581,10
+1613,567,180031,"atmospheric, dreamlike","(567, 180031)",4.0,1525284143,10
+1614,567,180985,bad music,"(567, 180985)",1.0,1525285297,10
+1615,573,836,seen at the cinema,"(573, 836)",3.0,1341798492,10
+1616,573,1801,seen more than once,"(573, 1801)",4.0,1186722133,10
+1617,573,5064,remake,"(573, 5064)",4.0,1186589675,10
+1618,573,5254,"Great movie, Wesley Snipes","(573, 5254)",4.5,1186589230,10
+1619,573,6373,classic,"(573, 6373)",4.5,1186590106,10
+1620,573,35836,"BEST PICTURE, classic, hilarious, steve carell","(573, 35836)",5.0,1186589993,1
+1621,573,52712,"HORRIBLE ACTING, interesting","(573, 52712)",0.5,1248842748,10
+1622,599,293,"Action, assassin, assassination, assassins, awkward romance, corruption, crime, disturbing, drama, French, friendship, Gary Oldman, great acting, Guns, hit men, hitman, humorous, imdb top 250, Jean Reno, Lolita theme, loneliness, love story, Luc Besson, Natalie Portman, organized crime, police, police corruption, quirky, sniper, tense, touching, unique","(599, 293)",5.0,1498456035,3
+1623,599,296,"1990s, achronological, action, action packed, aggressive, amazing, amazing dialogues, anthology, assassin, atmospheric, AWESOME, bad ass, bad language, bad-ass, bible, biblical references, big boys with guns, big name actors, Black comedy, black humor, black humour, blood, blood splatters, bloody, bruce willis, brutality, casual violence, character development, characters, classic, classic movie, coke, comedy, conversation, cool, cool style, crime, crime scene scrubbing, cult, cult classic, cult film, dance, dancing, dark, dark comedy, dark humor, dialogue, different, diner, disjointed timeline, disturbing, drama, drug overdose, drugs, drugs & music, ensemble cast, entertaining, entirely dialogue, episodic, exciting, fast paced, fast-paced, film noir, film-noir, foul language, fun, funny, gangster, gangsters, genius, golden watch, good dialogue, good music, gore, great acting, great dialogue, great soundtrack, gritty, guns, Harvey Keitel, heroin, Highly quotable, hit men, hitman, homosexuality, humour, iconic, imdb top 250, innovative, intellectual, intelligent, intense, interesting, intertwining storylines, interwoven storylines, ironic, irony, John Travolta, killer-as-protagonist, los angeles, Mafia, masterpiece, meaningless violence, milkshake, mobster, mobsters, monologue, motherfucker, multiple stories, multiple storylines, neo-noir, noir, non-linear, non-linear timeline, nonlinear, nonlinear narrative, nonlinear storyline, nonlinear timeline, notable soundtrack, offensive, organised crime, organized crime, original, original plot, out of order, Palme d'Or, parody, philosophical, pop culture references, psychological, pulp, Quentin Tarantino, quirky, Quotable, r:disturbing violent content including rape, r:disturbing violent images, r:graphic sexuality, r:some violence, r:strong bloody violence, r:strong language, r:sustained strong stylized violence, r:violence, random, rape, retro, Roger Avary, royal with cheese, Samuel L. Jackson, sarcasm, satire, sexy, smart writing, sophisticated, soundtrack, splatter, Steve Buscemi, storytelling, stylish, stylized, suspense, Tarantino, thought-provoking, thriller, travolta, twist ending, Uma Thurman, unique, unpredictable, unusual, very funny, violence, violent, witty","(599, 296)",5.0,1498456867,1
+1624,599,924,"aliens, apes, Arthur C. Clarke, artificial intelligence, atmospheric, cinematography, classic, computer, confusing ending, cult film, Dull, future, futuristic, imdb top 250, masterpiece, meditative, music, mystery, Oscar (Best Effects - Visual Effects), overrated, philosophical, relaxing, revolutionary, robots, sci-fi, setting:space/space ship, slow, slow paced, soundtrack, space, space travel, spacecraft, Stanley Kubrick, superb soundtrack, surreal, technology, tedious, visual, visually appealing","(599, 924)",5.0,1498456847,4
+1625,599,1732,"black comedy, bowling, classic, coen brothers, comedy, crime, Cult classic, cult film, dark comedy, deadpan, drugs, funny, great dialogue, great soundtrack, Highly quotable, imdb top 250, Jeff Bridges, John Goodman, Julianne Moore, kidnapping, marijuana, Nudity (Full Frontal), off-beat comedy, Philip Seymour Hoffman, quirky, ransom, rug, sarcasm, satirical, Steve Buscemi, violence","(599, 1732)",5.0,1498456250,1
+1626,599,2959,"action, atmospheric, based on a book, Brad Pitt, challenging, Chuck Palahniuk, classic, clever, complicated, consumerism, crime, dark, dark comedy, David Fincher, disturbing, double life, Edward Norton, fighting, great acting, helena bonham carter, imaginary friend, imdb top 250, mental illness, mind-blowing, mindfuck, narrated, Nudity (Topless), Palahnuik, philosophical, philosophy, postmodern, powerful ending, psychological, psychological thriller, psychology, quirky, satirical, schizophrenia, social commentary, societal criticism, stylized, surreal, TERRORISM, thought-provoking, twist, twist ending, violence, violent","(599, 2959)",5.0,1498456882,1
+1627,606,1357,music,"(606, 1357)",4.0,1173823837,10
+1628,606,1948,British,"(606, 1948)",3.5,1177512639,10
+1629,606,3578,Romans,"(606, 3578)",3.5,1171323835,10
+1630,606,5694,70mm,"(606, 5694)",3.0,1172968972,10
+1631,606,6107,World War II,"(606, 6107)",4.0,1171324428,10
+1632,606,7382,for katie,"(606, 7382)",4.5,1171233924,10
+1633,610,3265,"gun fu, heroic bloodshed","(610, 3265)",5.0,1479542010,10
+1634,610,168248,Heroic Bloodshed,"(610, 168248)",5.0,1493850091,10
