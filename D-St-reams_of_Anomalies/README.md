@@ -1,5 +1,5 @@
 # D-Streams of Anomalies
-## By Ronald
+## By Ronald Moore
   
 ### *Purpose*
 The purpose of this project was to explore the use of clustering models in order to detect anomalies in data science.
